@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {font-family: "Lato", sans-serif;}
+
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: #ffffff;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ffffff;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: none;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    /* border: 1px solid #ccc;*/
+    border-top: none;
+}
+</style>
+    
+       <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="customStyle.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="carouselSlide.js"></script>
+</head>
+<body>
+
+<h1 style="text-align:center">Annabel Rothschild</h1>
+
+<div class="tab" style="margin: 0 auto;width: 200px">
+  <button class="tablinks" onclick="openCity(event, 'about')">About</button>
+  <button class="tablinks" onclick="openCity(event, 'cs')">CS</button>
+  <button class="tablinks" onclick="openCity(event, 'art')">Art</button>
+</div>
+
+<div id="about" class="tabcontent" style="text-align:center">
+  <h3>Hello! // Salut! </h3>
+   <!-- <img src="img/selfportrait.png" style="height:300px;width:500px;align:center"> -->
+  <p style="padding-top:10px">
+        I am a <a href="https://www.wellesley.edu/cs">Wellesley College Computer Science major</a>, and I also dabble in photography and French in my spare time.
+        <br>
+        Feel free to send me an <a href="mailto:arothsch@wellesley.edu?Subject=From%Website" target="_top">email</a> if you'd like to hear more.
+    </p>
+</div>
+
+<div id="art" class="tabcontent">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin: 0 auto">
+  <!-- Indicators 
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+-->
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+
+    <div class="item active">
+      <img src="img/noirRouge.jpg" alt="Chania">
+      <div class="carousel-caption">
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="img/figures.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+    <div class="item">
+      <img src="img/sugar.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+          <div class="item">
+      <img src="img/window.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+  </div>
+
+  <!-- Left and right controls
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="sr-only">Next</span>
+  </a>
+ -->
+</div>
+</div>
+
+<div id="cs" class="tabcontent" style="text-align:center">
+  <h3>More Projects Coming Soon!</h3>
+    <br>
+    <img src="img/sciHome.png" style="align:center;height:200px;width:300px">
+    <img src="img/sciMap.png" style="align:center;height:200px;width:300px">
+    <h4><a href="https://github.com/annabelrothschild/SciMaps">Sci Maps:</a></h4>
+    <h5 style="padding-left:20px;padding-right:20px">A Google Maps-style application to help user's navigate Wellesley's erratically numbered Science Center.</h5>
+    <h5>Created as a team project for CS230.</h5>
+        
+
+</div>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+
+
+</body>
+</html> 

@@ -1,17 +1,24 @@
 #myCarousel{
     width: auto;
-    max-width: 700px;
-    height: 500px;
-    max-height: 500px;
+    max-width: 640px;
+    height: 460px;
+    max-height: 460px;
 }
 #myCarousel img {
   max-width: auto;
-  height: 500px;
-  max-height: 500px;
+  height: 460px;
+  max-height: 460px;
     margin: 0 auto;
 }
 .carousel-indicators {
   bottom:-100px;
     background-color: lightgrey;
     border: black !important;
+}
+#myBtn{
+    background-color:white;
+    color: none;
+    padding: none;
+    margin: 0px;
+    border: none;
 }

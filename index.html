@@ -65,13 +65,28 @@ div.tab button.active {
 </div>
 
 <div id="about" class="tabcontent" style="text-align:center">
-  <h3>Hello! // Salut! </h3>
+  <h3 style="padding-top:10px">Hello! // Salut! </h3>
 <img src="img/annabel.jpg" style="height:300px;width:450px;align:center">
-  <p style="padding-top:10px">
+  <p>
         I am a <a href="https://www.wellesley.edu/cs">Wellesley College Computer Science major</a>, and I also dabble in photography and French in my spare time.
         <br>
         Feel free to send me an <a href="mailto:arothsch@wellesley.edu?Subject=From%Website" target="_top">email</a> if you'd like to hear more.
-    </p>
+        <br>
+        A current copy of my resume can be found 
+      <button id="myBtn">here</button>. </p>
+    <a href="https://github.com/annabelrothschild/"><img src="img/github.png" style="height:20px;width:20px"></a>
+    <a href="https://www.linkedin.com/in/annabel-rothschild-488327124/"><img src="img/linkedin.png" style="height:23px;width:23px"></a>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+      <object type="application/pdf" data="AnnabelRothschild_Resume.pdf" width="100%" height="500" style="height: 85vh;"></object>
+  </div>
+    </div>
+
 </div>
 
 <div id="art" class="tabcontent">
@@ -106,16 +121,43 @@ div.tab button.active {
     </div>
       
     <div class="item">
+      <img src="img/window.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+    <div class="item">
+      <img src="img/selfportrait.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+    <div class="item">
+      <img src="img/FARM.jpg" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+    <div class="item">
+      <img src="img/fire.png" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+      
+    <div class="item">
+      <img src="img/sandal.jpg" alt="Flower">
+      <div class="carousel-caption">
+      </div>
+    </div>
+      
+    <div class="item">
       <img src="img/sugar.png" alt="Flower">
       <div class="carousel-caption">
       </div>
     </div>
       
-          <div class="item">
-      <img src="img/window.png" alt="Flower">
-      <div class="carousel-caption">
-      </div>
-    </div>
+
   </div>
 
   <!-- Left and right controls
@@ -140,6 +182,10 @@ div.tab button.active {
         
 
 </div>
+    
+    <h6 style="text-align:center">Copyright © 2017 Annabel Rothschild</h6>
+
+<script src="modal.js"></script>
 
 <script>
 function openCity(evt, cityName) {
@@ -156,7 +202,5 @@ function openCity(evt, cityName) {
     evt.currentTarget.className += " active";
 }
 </script>
-
-
 </body>
 </html> 

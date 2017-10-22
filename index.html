@@ -65,15 +65,15 @@ div.tab button.active {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="carouselSlide.js"></script>
 </head>
-<body>
+<body style="text-align:center">
 
 <p id="name">Annabel Rothschild</p>
-
 <div class="tab" style="margin: 0 auto;width: 200px">
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
   <button class="tablinks" onclick="openCity(event, 'cs')">CS</button>
   <button class="tablinks" onclick="openCity(event, 'art')">Art</button>
 </div>
+    <img id="homeImage" src="img/annabeldesk.jpg" style="height:300px;width:450px">
 
 <div id="about" class="tabcontent" style="text-align:center">
   <h3 style="padding-top:10px">Hello! // Salut! </h3>
@@ -125,12 +125,6 @@ div.tab button.active {
       <div class="carousel-caption">
       </div>
     </div>
-            
-    <div class="item">
-      <img src="img/cake.jpg" alt="Flower">
-      <div class="carousel-caption">
-      </div>
-    </div>
       
     <div class="item">
       <img src="img/window.png" alt="Flower">
@@ -156,12 +150,6 @@ div.tab button.active {
       </div>
     </div>
       
-      
-    <div class="item">
-      <img src="img/sandal.jpg" alt="Flower">
-      <div class="carousel-caption">
-      </div>
-    </div>
       
     <div class="item">
       <img src="img/sugar.png" alt="Flower">
@@ -200,7 +188,9 @@ div.tab button.active {
 <script src="modal.js"></script>
 
 <script>
+
 function openCity(evt, cityName) {
+    document.getElementById("homeImage").style.display = "none";
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
     for (i = 0; i < tabcontent.length; i++) {

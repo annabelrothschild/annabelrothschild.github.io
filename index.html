@@ -69,6 +69,15 @@ div.tab button.active {
 <body style="text-align:center">
 
 <p id="name">Annabel Rothschild</p>
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Please use the left and right arrow keys to navigate between pictures, otherwise the slides will rotate automatically!</p>
+  </div>
+
+</div>
 <div class="tab" style="margin: 0 auto;width: 200px">
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
   <button class="tablinks" onclick="openCity(event, 'cs')">CS</button>
@@ -197,6 +206,27 @@ div.tab button.active {
 <script>
 
 function openCity(evt, cityName) {
+    if (cityName == 'art'){
+        var modal = document.getElementById('myModal');
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks the button, open the modal 
+        modal.style.display = "block";
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    }
     document.getElementById("homeImage").style.display = "none";
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");

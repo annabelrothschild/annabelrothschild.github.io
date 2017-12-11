@@ -13,15 +13,7 @@
 <body style="text-align:center">
 
 <p id="name">Annabel Rothschild</p>
-<div id="artModal" class="modal">
 
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Please use the left and right arrow keys to navigate between pictures, otherwise the slides will rotate automatically!</p>
-  </div>
-
-</div>
 <div class="tab" style="margin: 0 auto;width: 200px">
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
   <button class="tablinks" onclick="openCity(event, 'cs')">CS</button>
@@ -57,8 +49,10 @@
 <div id="art" class="tabcontent">
     <button onclick="displayBio()" style="margin-bottom:10px;">Pretentious Artist Statement</button>
     <br>
-    <span id = "statement" style="margin-top:5px;margin-bottom:10px"></span>
-<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin: 0 auto">
+    <span id = "statement" style="margin-top:5px;padding-bottom:10px"></span>
+    <p id="directions">Please use the left or right arrow keys to advance slides</p>
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin: 0 auto">
 
   <div class="carousel-inner" role="listbox">
 

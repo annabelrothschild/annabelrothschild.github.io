@@ -113,3 +113,8 @@ div.tab button.active {
     /* border: 1px solid #ccc;*/
     border-top: none;
 }
+#directions{
+    font-size: 11px;
+    padding-top: 15px;
+    font-weight: 100;
+}

@@ -10,25 +10,26 @@
 
 </head>
 
-<body style="text-align:center">
+<body> <!--style="text-align:center"> -->
 
 <p id="name">Annabel Rothschild</p>
-
-<div class="tab" style="margin: 0 auto;width: 200px;">
+   
+    
+<!-- <div class="tab" style="margin: 0 auto;width: 200px;">-->
+<div class="tab" style="text-align:center">
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
   <button class="tablinks" onclick="openCity(event, 'cs')">CS</button>
   <button class="tablinks" onclick="openCity(event, 'art')">Art</button>
 </div>
     
-<div id="about" class="tabcontent active" style="text-align:center; display:block">
-  <h3 style="padding-top:10px">Hello! // Salut! </h3>
-<img src="img/headshot.jpg" style="height:150px;width:160px;align:center">
-  <p>
-         I'm a Junior at Wellesley College where I study Computer Science, Statistics, and French. I'm interested in anything that has to do with data - particularly those applications with social effects. I'm an Undergraduate Research Assistant at Wellesley's CRED Lab, run by Dr. Eni Mustafaraj, where we study how people evaluate credibility on the web and help them build the tools to do so. Currently, I'm part of a <a href="https://annabelrothschild.github.io/Edit-A-Thon_Website/">project</a> dealing with the representation of local newspapers on Wikipedia, to help with the lateral reading process that prevents the spread of fake news. Previously, I worked on the <a href="https://dm.lmc.gatech.edu/news/item/608094/">Atlanta Map Room</a>, led by Dr. Yanni Loukissas at Georgia Tech, to help contextualize personal, lived histories in Atlanta in the face of a changing city, especially in regards to gentrification. A video describing our work can be found <a href="https://www.youtube.com/watch?v=9EkI9Oav49c">here</a>.<br><br>
-            Besides programming, I spend my time gardening succulents, hiking, building my photography portfolio, and admiring the work of <a href="https://www.theguardian.com/artanddesign/2016/feb/21/hilma-af-klint-occult-spiritualism-abstract-serpentine-gallery">Hilma af Klint</a>.
-        Feel free to send me an <a href="mailto:arothsch@wellesley.edu?Subject=From%Website" target="_top">email</a> if you'd like to hear more (ar@annabelrothschild.space)
-        <br>
-        A current copy of my resume can be found <a href="https://drive.google.com/file/d/1mROVfIxGXmmW54ULSDpd4qDFZAK3bImQ/view?usp=sharing">here</a>.<br>
+<div id="about" class="tabcontent active" style="display:block;">
+  <h3 style="text-align:center">Hello! Hej! Bonjour!</h3><br>
+  <p style="margin-left:10%;margin-right:10%;text-align:left"> <img src="img/IMG_3539.jpg" style="float:right;height:250px;width:auto;">I'm a Junior at Wellesley College where I study Computer Science, Statistics, and French.
+I'm interested in anything and everything related to data: how we obtain it, process it, and contextualize it. I'm particularly enthralled by those applications with significant sociopolitical implications. To see what I'm currently up to, please go to the "CS" tab. <br><br>
+            Besides programming, I spend my time gardening succulents, hiking, building my photography portfolio, and admiring the work of <a href="https://www.theguardian.com/artanddesign/2016/feb/21/hilma-af-klint-occult-spiritualism-abstract-serpentine-gallery">Hilma af Klint</a>.<br><br>
+        My email is arothsch [at] wellesley [dot] edu. 
+        <br><br>
+        <!-- A current copy of my resume can be found <a href="https://drive.google.com/file/d/1mROVfIxGXmmW54ULSDpd4qDFZAK3bImQ/view?usp=sharing">here</a>.<br> -->
     <a href="https://github.com/annabelrothschild/"><img src="img/github.png" style="height:20px;width:20px"></a>
     <a href="https://www.linkedin.com/in/annabel-rothschild-488327124/"><img src="img/linkedin.png" style="height:23px;width:23px"></a>
     <a href="http://cs.wellesley.edu/~arothsch/"><img src="img/wellesley.png" style="height:15px;width:20px"></a>
@@ -45,10 +46,10 @@
 
 </div>
 
-<div id="art" class="tabcontent">
-    <button onclick="displayBio()" style="margin-bottom:10px;">Pretentious Artist Statement</button>
+<div id="art" class="tabcontent" style="text-align:center">
+    <button onclick="displayBio()" style="margin-bottom:10px;align:center">Pretentious Artist Statement</button>
     <br>
-    <span id = "statement" style="margin-top:5px;padding-bottom:10px"></span>
+    <span id = "statement" style="margin-top:5px;padding-bottom:10px;text-align:center"></span>
     <p id="directions">Please use the left or right arrow keys to advance slides</p>
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin: 0 auto">
@@ -101,19 +102,25 @@
 
   </div>
 </div>
-</div>
+</div> 
 
 <div id="cs" class="tabcontent" style="text-align:center">
     <br>
     <div class="csProject">
-        <h4><a href="http://annabelrothschild.space/ColdCaller/">Cold Caller: </a></h4>
-        <h5>A simple cold-caller application built for classroom management in Summer 2017. <br><br> Built with JavaScript, CSS, HTML, and Bootstrap.</h5><br>
+        <h4 style="font-size:22px;font-weight:bold">Wellesley College CRED Lab</h4><h5 style="padding: 3%; font-size:20px"><br>I'm an Undergraduate Research Assistant at Wellesley's CRED Lab, run by Dr. Eni Mustafaraj, where we study how people evaluate credibility on the web and help them build the tools to do so. Currently, I'm part of a <a href="https://hapgood.us/newspapers-on-wikipedia-charity-challenge/">project</a> dealing with the representation of local newspapers on Wikipedia, to help with the lateral reading process that prevents the spread of fake news. I'm organizing <a href="https://annabelrothschild.github.io/Edit-A-Thon_Website/">a Wikipedia Edit-a-Thon at the moment.</a></h5>
     </div><br><br>
     <div class="csProject">
-        <h4><a href="https://github.com/annabelrothschild/SciMaps">Sci Maps:</a></h4>
+        <h4 style="font-size:22px;font-weight:bold">Atlanta Map Room</h4><h5 style="padding: 3%; font-size:20px">I worked on the first version of the <a href="https://dm.lmc.gatech.edu/news/item/608094/">Atlanta Map Room </a> in Summer 2018 and am currently providing support to a sister location in Boston. Led by Dr. Yanni Loukissas at Georgia Tech, the goal of the Map Room is to document and reflect upon the connections and disjunctions between civic data and lived experience in the city, through the collaborative creation of large-scale, interpretive maps. Specifically, we work to contextualize personal, lived histories in Atlanta in the face of a changing city, especially in regards to gentrification. My work on the 10-week project included cleaning, processing, geocoding, and researching datasets for the data overlays, as well as work on the web app, created with JavaScript, Node.js, Socket.io, HTML and CSS, and the DataTables j-Query plugin. <br><br>A video, made by our PM, Chris Polack, describing our work can be found <a href="https://www.youtube.com/watch?v=9EkI9Oav49c">here</a>.</h5>
+    </div><br><br>
+    <div class="csProject">
+        <h4 style="font-size:22px;font-weight:bold"><a href="http://annabelrothschild.space/ColdCaller/">Cold Caller </a></h4>
+        <h5 style="font-size:20px">A simple cold-caller application built for classroom management in Summer 2017. <br><br> Built with JavaScript, CSS, HTML, and Bootstrap.</h5><br>
+    </div><br><br>
+    <div class="csProject">
+        <h4 style="font-size:22px;font-weight:bold"><a href="https://github.com/annabelrothschild/SciMaps">Sci Maps:</a></h4>
         <img src="img/sciHome.png" style="align:center;height:200px;width:300px">
         <img src="img/sciMap.png" style="align:center;height:200px;width:300px">
-        <h5 style="padding-left:20px;padding-right:20px">A Google Maps-style application to help users navigate Wellesley's erratically numbered Science Center.</h5>
+        <h5 style="padding-left:20px;padding-right:20px;font-size:20px">A Google Maps-style application to help users navigate Wellesley's erratically numbered Science Center.</h5>
         <h5>Created as a team project for CS230.</h5>
     </div>
         

@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Bungee+Shade');
+@import url('https://fonts.googleapis.com/css?family=Anton|Bungee+Shade|Bungee+Hairline|Roboto');
 #name{
     font-family: 'Anton', sans-serif;
-    font-family: 'Bungee Shade', cursive;
+    font-family: 'Bungee Hairline', cursive;
     font-size: 40px;
     text-align: center;
 }
@@ -87,7 +87,7 @@ div.tab {
 /* Style the buttons inside the tab */
 div.tab button {
     background-color: #ffffff;
-    float: left;
+    /* float: left; */
     border: none;
     outline: none;
     cursor: pointer;
@@ -112,6 +112,8 @@ div.tab button.active {
     padding: 6px 12px;
     /* border: 1px solid #ccc;*/
     border-top: none;
+    font-family: 'Roboto';
+    font-size: 20px;
 }
 #directions{
     font-size: 11px;

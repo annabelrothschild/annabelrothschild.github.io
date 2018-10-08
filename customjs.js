@@ -10,7 +10,6 @@ function displayBio(){
 }
 
 function openCity(evt, cityName) {
-    document.getElementById("homeImage").style.display = "none";
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
     for (i = 0; i < tabcontent.length; i++) {

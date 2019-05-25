@@ -6,6 +6,6 @@ layout: home
 ---
 
 
-# Looks like you've found me! 
+Looks like you've found me! 
 
 Hopefully one of the pages will have the information you're looking for, otherwise please email me.

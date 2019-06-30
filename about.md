@@ -8,7 +8,7 @@ permalink: /about/
 I'm a Computer Science ~~enthusiast~~ student at [Wellesley College](https://www.wellesley.edu/cs). My research page has a bit more info about the kinds of projects I most enjoy. 
 
 # Things I can be a sounding board for
-I've been the very grateful beneficiary of some excellent advice from fellow Wellesley students, alumns, professors, & a load of other neat-o people I've been fortunate to meet. Maybe some of my experiences (a few listed below) are relevant for other folks, in which case I'd be more than happy to pay the advice chain forward (though in my case I certainly can't claim to have it "all figured out", but I can be someone to bounce ideas off of!) Email[^2]is the best way to reach me.
+I've been the very grateful beneficiary of some excellent advice from fellow Wellesley students, alumns, professors, & a load of other neat-o people I've been fortunate to meet. Maybe some of my experiences (a few listed below) are relevant for other folks, in which case I'd be more than happy to pay the advice chain forward (though in my case I certainly can't claim to have it "all figured out", but I can be someone to bounce ideas off of!) Email[^2] is the best way to reach me.
 * Albright Fellowship
 * Supplemental Instruction (SI) Leader or Tutoring in the Wellesley CS department
 * Wellesley CS major/being a CS major at a liberal arts college (spoiler: it's great!)

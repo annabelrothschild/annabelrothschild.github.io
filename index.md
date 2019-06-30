@@ -5,9 +5,8 @@
 layout: home
 ---
 
-![Feat. my favorite mode of transportation](/images/IMG_4460.jpeg)
-Format: ![Annabel on a bike](url)
+<img src="images/IMG_4460.jpeg" width="200" height="200" />
 
 Looks like you've found me! 
 
-Hopefully one of the pages will have the information you're looking for, otherwise please email me. Route regular stuff to (arothsch@wellesley.edu) and anything of a confidental or sensitive nature to (annabelrothschild@tuta.io). 
+Hopefully one of the pages will have the information you're looking for, otherwise please email me. Route regular stuff to (arothsch@wellesley.edu)[arothsch@wellesley.edu] and anything of a confidental or sensitive nature to (annabelrothschild@tuta.io)[annabelrothschild@tuta.io]. 

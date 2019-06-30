@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="images/IMG_4460.jpeg" width="10%" height="10%" />
+<img src="images/IMG_4460.jpeg" width="10%" height="20%" />
 
 Looks like you've found me! 
 

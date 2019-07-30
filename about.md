@@ -20,9 +20,11 @@ I've been the very grateful beneficiary of some excellent advice from fellow Wel
 * Hiking -- particularly in the mountains of the Southeastern US, for example, goofing around in [Pisgah National Forest](https://drive.google.com/file/d/1W6abSyLooI3kTHoX4csT8yu4fn54cAtq/view?usp=sharing)
 * Genre-bending artists and works, like [Hilma af Klint](https://www.theguardian.com/artanddesign/2016/feb/21/hilma-af-klint-occult-spiritualism-abstract-serpentine-gallery) and Cindy Sherman's [Untitled Film Stills](https://artlead.net/content/journal/modern-classics-cindy-sherman-untitled-film-stills/)
 
+# About this site
+Built with [Jekyll](https://github.com/jekyll/jekyll)
+
 # Fun Footnotes
 [^1]: If you're reading this I figure we're on friendly terms [;\)](https://blogs.transparent.com/swedish/hej-hej/)
 [^2]: Feel free to use my "more private" or, "less monitored by the lurking surveillance forces that be" email if you like: [annabelrothschild@tuta.io](annabelrothschild@tuta.io). [arothsch@wellesley.edu](arothsch@wellesley.edu) works too.
 
-# About this site
-Built with [Jekyll](https://github.com/jekyll/jekyll)
+

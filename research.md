@@ -28,7 +28,7 @@ Starting this Fall, I will be embarking on an independent study/thesis with [Pro
 * _Intern Mentorship Panel_ (panelist), Wellesley College Computer Science Club, April 2019
 * _The Atlanta Map Room_, Wellesley College Tanner Conference, October 2018
 * _The Atlanta Map Room: Documenting the Connections and Disjunctions between Civic Data and Lived Experiences in the City_, Atlanta Studies Fall Meetup, August 2018
-* First-Year Internships in Tech, Wellesley College Tanner Conference, October 2017
+* _First-Year Internships in Tech_, Wellesley College Tanner Conference, October 2017
 
 # Technical Reports
 * [_On the Complex Type System Features and their Adoption_](https://drive.google.com/file/d/1PtN-9oI4YbBLzjMjdVpC2Hy8GNbd5biP/view?usp=sharing) -- final project for Compilers & Runtime Systems class, Spring '19. Sole author of sections 1-2.

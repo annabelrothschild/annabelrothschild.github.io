@@ -23,3 +23,6 @@ I've been the very grateful beneficiary of some excellent advice from fellow Wel
 # Fun Footnotes
 [^1]: If you're reading this I figure we're on friendly terms [;\)](https://blogs.transparent.com/swedish/hej-hej/)
 [^2]: Feel free to use my "more private" or, "less monitored by the lurking surveillance forces that be" email if you like: [annabelrothschild@tuta.io](annabelrothschild@tuta.io). [arothsch@wellesley.edu](arothsch@wellesley.edu) works too.
+
+# About this site
+Built with [Jekyll](https://github.com/jekyll/jekyll)

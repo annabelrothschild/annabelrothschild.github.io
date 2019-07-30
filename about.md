@@ -14,7 +14,7 @@ I've been the very grateful beneficiary of some excellent advice from fellow Wel
 * Wellesley CS major/being a CS major at a liberal arts college (spoiler: it's great!)
 * REUs (research experiences for undergraduates, funded by the National Science Foundation)
 * Undergraduate computer science research
-* Shipping bikes across the country lol 
+* Shipping bikes across the continental United States lol 
 
 # Other Interests
 * Hiking -- particularly in the mountains of the Southeastern US, for example, goofing around in [Pisgah National Forest](https://drive.google.com/file/d/1W6abSyLooI3kTHoX4csT8yu4fn54cAtq/view?usp=sharing)

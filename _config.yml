@@ -16,10 +16,11 @@
 description:   # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of your site, e.g. /blog
 title: Annabel Rothschild
-email: arothsch@wellesley.edu
+email: arothsch@wellesley.edu 
 url: https://annabelrothschild.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ar_rothschild
 github_username: annabelrothschild
+google_analytics: UA-108114820-1
 # Build settings
 markdown: kramdown
 theme: minima

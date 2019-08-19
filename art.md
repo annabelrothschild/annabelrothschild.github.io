@@ -2,6 +2,7 @@
 layout: page
 title: Art
 permalink: /art/
+order: 3
 ---
 
 Photography and digital arts pieces, in no particular order:

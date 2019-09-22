@@ -23,7 +23,7 @@ github_username: annabelrothschild
 google_analytics: UA-108114820-1
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 

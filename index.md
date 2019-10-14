@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="images/hello.jpg"
+<img src="images/hello.JPG"
      alt="A friend and I saying 'hello'"
      style="float: left; margin-right: 10px" />
 

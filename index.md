@@ -10,7 +10,7 @@ layout: home
      width="200" 
      align= "left"
      float = "left"
-     margin-right = "10"
+     margin = "10 10 0 0"
      />
 
 Hi, it's nice to _see_ you!

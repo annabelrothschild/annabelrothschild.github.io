@@ -5,6 +5,10 @@
 layout: home
 ---
 
-Hi!
+<img src="hello.jpg"
+     alt="A friend and I saying 'hello'"
+     style="float: left; margin-right: 10px;" />
+
+Hi, it's nice to _see_ you!
 
 Hopefully one of the pages listed in the menu will have the information you're looking for, otherwise please email me: arothsch [at] wellesley.edu. 

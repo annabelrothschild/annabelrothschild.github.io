@@ -7,7 +7,7 @@ layout: home
 
 <img src="images/hello.JPG"
      alt="A friend and I saying 'hello'"
-     width="100" 
+     width="200" 
      align= "left"
      float = "left"
      />

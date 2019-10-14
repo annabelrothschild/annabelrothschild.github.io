@@ -27,6 +27,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+# - research.html
+# - CV.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

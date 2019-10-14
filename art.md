@@ -27,14 +27,7 @@ Photography and digital arts pieces, in no particular order:
 
 ![image](/images/sugar.png)
 
-# window, 2014
+# Untitled, 2014
 
 ![image](/images/window.png)
 
-# The Farm, 2014
-
-![image](/images/FARM.jpg)
-
-# Tivoli, 2014
-
-![image](/images/copenhagen2.jpg)

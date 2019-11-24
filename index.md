@@ -9,11 +9,11 @@ layout: home
 
 Hello, 
 
-I am a computer science student at [Wellesley College](https://www.wellesley.edu/cs) outside of Boston, MA (USA). My [research page](https://annabelrothschild.com/research/) has more information about the kinds of projects I enjoy working on; generally, when programming languages and CS education converge, I'm a big fan. It's probably not a surprise then that I also take great joy in [teaching CS](https://annabelrothschild.com/teaching/) in voluteer and professional settings.
+I am a computer science student at [Wellesley College](https://www.wellesley.edu/cs) outside of Boston, MA (USA); my pronouns are she/her/hers. My [research page](https://annabelrothschild.com/research/) has more information about the kinds of projects I enjoy working on; generally, when programming languages and CS education converge, I'm a big fan. It's probably not a surprise then that I also take great joy in [teaching CS](https://annabelrothschild.com/teaching/) in voluteer and professional settings.
 
-Outside of computer science, I enjoy hiking, biking, and [cool art](https://annabelrothschild.com/personal/art/). I am a 'native' English speaker, my French is B2/C1 and my German is barely A1.  
+Outside of computer science, I enjoy hiking, biking, and [cool art](https://annabelrothschild.com/personal/art/). I am a 'native' English speaker, my French is B2/C1 and my German is barely A1. 
 
-To contact me, please email me at either arothschild [at] wellesley [dot] edu. I also use an encrypted service: annabelrothschild [at] tuta [dot] io if you prefer. My pronouns are she/her/hers.
+To contact me, please email me at either arothschild [at] wellesley [dot] edu. I also use an encrypted service: annabelrothschild [at] tuta [dot] io if you prefer. 
 
 <img src="images/IMG_4988.JPG"
      alt="Photo of Annabel'"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art
-permalink: /art/
+permalink: /personal/art/
 ---
 
 Mostly I keep this record as a list of inspirations, but in no particular order:

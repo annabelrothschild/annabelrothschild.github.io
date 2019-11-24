@@ -5,13 +5,7 @@
 layout: home
 ---
 
-<img src="images/IMG_4988.JPG"
-     alt="Photo of Annabel'"
-     width="200" 
-     align= "left"
-     float = "left"
-     margin = "1000 10 10 10"
-     />
+
 
 Hello, 
 
@@ -21,4 +15,10 @@ Outside of computer science, I enjoy hiking, biking, and [cool art](https://anna
 
 To contact me, please email me at either arothschild [at] wellesley [dot] edu. I also use an encrypted service: annabelrothschild [at] tuta [dot] io if you prefer.
 
+<img src="images/IMG_4988.JPG"
+     alt="Photo of Annabel'"
+     width="200" 
+     />
+
 This site is built with [Jekyll](https://github.com/jekyll/jekyll). [Impressum](https://annabelrothschild.com//impressum/).
+

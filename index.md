@@ -13,7 +13,7 @@ I am a computer science student at [Wellesley College](https://www.wellesley.edu
 
 Outside of computer science, I enjoy hiking, biking, and [cool art](https://annabelrothschild.com/personal/art/). I am a 'native' English speaker, my French is B2/C1 and my German is barely A1. 
 
-To contact me, please email me at either arothschild [at] wellesley [dot] edu. I also use an encrypted service: annabelrothschild [at] tuta [dot] io if you prefer. 
+To contact me, please email me at either arothschild [at] wellesley [dot] edu or my encrypted service: annabelrothschild [at] tuta [dot] io. 
 
 <img src="images/IMG_4988.JPG"
      alt="Photo of Annabel'"

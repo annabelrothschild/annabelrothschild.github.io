@@ -8,7 +8,8 @@ Mostly I keep this record as a list of inspirations, but in no particular order:
 
 * Genre-bending artists and works, like [Hilma af Klint](https://www.theguardian.com/artanddesign/2016/feb/21/hilma-af-klint-occult-spiritualism-abstract-serpentine-gallery) and Cindy Sherman's [Untitled Film Stills](https://artlead.net/content/journal/modern-classics-cindy-sherman-untitled-film-stills/). 
 * I find [Kathë Kollwitz's](https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz) work eternally poignant, too. 
-* [Tove Jansson](https://en.wikipedia.org/wiki/Tove_Jansson) is another long time inspiration. Plus, an excellent book: [Dr. Hope Jahren's](https://en.wikipedia.org/wiki/Lab_Girl).
+* [Tove Jansson](https://en.wikipedia.org/wiki/Tove_Jansson) is another long time inspiration. 
+* An excellent book: [Dr. Hope Jahren's](https://en.wikipedia.org/wiki/Lab_Girl).
 
 Here are a few of my own photography and digital arts pieces (I leave these here as evidence of the impact of the aforementioned names, rather than as comparison to them): 
 

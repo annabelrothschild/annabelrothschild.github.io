@@ -22,7 +22,7 @@ In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.
 I am currently working on an honors thesis (bachelorarbeit) with [Prof. Ada Lerner](https://www.wellesley.edu/cs/faculty/lerner) of Wellesley. The working title of my thesis is "Helping Users Understand and Prevent Data Exfiltration by Ads in Android Apps".
 
 # Papers
-* A. Rothschild\*, E.Lurie\*, E.Mustafaraj, _How the Interplay of Google and Wikipedia Affects Perceptions of Online News Sources_, Computation \+ Jouranlism Symposium, Miami, FL, Feb. 1-2, 2019. [Link](https://drive.google.com/file/u/1/d/1hZD2Z-Nv6ZpCTQWgFoHcJWOZnSDG-IEU/view?usp=sharing). A [review](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2019-09-30/Recent_research) of this work was published in The Signpost, the online newspaper of the English-language Wikipedia.
+* A. Rothschild\*, E.Lurie\*, E.Mustafaraj, _How the Interplay of Google and Wikipedia Affects Perceptions of Online News Sources_, Computation \+ Journalism Symposium, Miami, FL, Feb. 1-2, 2019. [Link](https://drive.google.com/file/u/1/d/1hZD2Z-Nv6ZpCTQWgFoHcJWOZnSDG-IEU/view?usp=sharing). A [review](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2019-09-30/Recent_research) of this work was published in The Signpost, the online newspaper of the English-language Wikipedia.
 
 # Talks
 * Presented _How the Interplay of Google and Wikipedia Affects Perceptions of Online News Sources_ at C\+J 2019

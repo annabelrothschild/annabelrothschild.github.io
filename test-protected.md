@@ -1,5 +1,4 @@
 ﻿---
-layout: page
 title: Test Protected
 permalink: /test-protected/
 ---

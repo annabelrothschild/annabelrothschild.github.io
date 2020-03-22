@@ -1,7 +1,4 @@
-﻿---
-title: Test Protected
-permalink: /test-protected/
----
+﻿
 
 <!DOCTYPE html>
 <html lang="en">

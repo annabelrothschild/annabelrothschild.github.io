@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿---
+layout: page
+title: Research Protected
+permalink: /research-protected/
+---
+
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">

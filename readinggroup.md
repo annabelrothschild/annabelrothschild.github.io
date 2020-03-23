@@ -21,7 +21,7 @@ Reasons to join us:
 
 Questions or interested in helping organize this group? Please feel free to email me directly. 
 
-Fill out our when2meet <s>[here](https://www.when2meet.com/?8558687-cOgc4)</s> (we're now virtual, [new poll link](https://www.when2meet.com/?8914644-Ldrox). Sign up to lead a discussion [here](https://docs.google.com/document/d/13OVOLwu36ECiXQ_Qymg5sCI0SMOjZGvz08cmoG_j3sc/edit?usp=sharing) (Wellesley sign-in required). 
+Fill out our when2meet ~~[here](https://www.when2meet.com/?8558687-cOgc4)~~ (we're now virtual, [new poll link](https://www.when2meet.com/?8914644-Ldrox)). Sign up to lead a discussion [here](https://docs.google.com/document/d/13OVOLwu36ECiXQ_Qymg5sCI0SMOjZGvz08cmoG_j3sc/edit?usp=sharing) (Wellesley sign-in required). 
 
 ### Sessions
 

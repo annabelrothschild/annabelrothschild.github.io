@@ -18,5 +18,5 @@ To contact me, please email me at either arothsch [at] wellesley [dot] edu or an
      width="200" 
      />
 
-This site is built with [Jekyll](https://github.com/jekyll/jekyll). [Impressum](https://annabelrothschild.com//impressum/).
+This site is built with [Jekyll](https://github.com/jekyll/jekyll); password protected areas secured with code authored by [Maximillian Laumeister](https://www.maxlaumeister.com/). [Impressum](https://annabelrothschild.com//impressum/).
 

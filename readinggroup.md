@@ -25,6 +25,8 @@ Fill out our when2meet ~~[here](https://www.when2meet.com/?8558687-cOgc4)~~ (we'
 
 ### Sessions
 
+04.1.2020 -- Allison is leading a discussion of __["Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"](https://drive.google.com/file/d/1DjlJZ9eOhSMmU6m-iSliJ7lkBWyUPhRv/view)__ (or via ACM Digital Library if you have access to the Wellesley VPN or network). We'll be meeting on Zoom; login info [here](https://docs.google.com/document/d/1aPG-IRz6zQ0NMwxxMwx67xBYBjCS1P4VNFwbyiCsCME/edit?usp=sharing) (note Wellesley sign-in required).
+
 02.15.2020 -- Gaby is leading a discussion of __["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi40qSc59PnAhV2gnIEHUh5AUIQFjAAegQIAxAB&url=https%3A%2F%2Fwww.usenix.org%2Fsystem%2Ffiles%2Fconference%2Fsoups2018%2Fsoups2018-sambasivan.pdf&usg=AOvVaw1AfT-v9Pnv2jzqEs07_hs9)__. Gaby suggests you consider the following questions as you’re engaging with the work to jump-start our discussion:
 
 1. How do women in South Asia secure and maintain information on mobile devices?

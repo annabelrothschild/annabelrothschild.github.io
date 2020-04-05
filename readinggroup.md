@@ -4,6 +4,8 @@ title: Wellesley CS Reading Group
 permalink: /readinggroup/
 ---
 
+{:toc}
+
 ### Sessions
 
 04.15.2020 -- Alissa is leading a discussion of __["The trouble with 'women in computing': a critical examination of the deployment of research on the gender gap in computer science"](https://drive.google.com/file/d/1P36u9zs2dEmbxdYoNdTBxFsNtqO8wdAn/view?usp=sharing)__. We'll be meeting on Zoom, view logistical details [here](https://docs.google.com/document/d/15TymPI-AZUPmFcupxOthg6tA9H_6l7YvX03tQmYhujQ/edit?usp=sharing) (requires Wellesley sign-in).

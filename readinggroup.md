@@ -6,6 +6,20 @@ permalink: /readinggroup/
 
 ### Sessions
 
+04.15.2020 -- Alissa is leading a discussion of __["The trouble with 'women in computing': a critical examination of the deployment of research on the gender gap in computer science"](https://drive.google.com/file/d/1P36u9zs2dEmbxdYoNdTBxFsNtqO8wdAn/view?usp=sharing)__. Alissa suggets you consider the following questions as you're engaging with the work:
+
+1. The idea of a "leaky pipeline" is used through much of the paper to describe how women end up leaving STEM.
+	* Have you seen/experienced the "leaky pipeline" as a student in STEM yourself? When?
+	* Why might a "leaky pipeline" be good? Why might it be bad?
+2. The paper mostly focuses on Western culture and trends but the short section on non-Western attitudes brings up curious insights.
+	* Do the attitudes about computer science being a good job for women (because it's indoors and a mental rather than menial task) sound familiar to anyone?
+	* Do you agree?
+3. The paper brings up the point about enjoying vs being employed in STEM and how to count that.
+	* Is enjoying computing the same as being a STEM person?
+	* How is it different?
+	* Should it be treated the same?
+
+
 04.1.2020 -- Allison is leading a discussion of __["Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"](https://drive.google.com/file/d/1DjlJZ9eOhSMmU6m-iSliJ7lkBWyUPhRv/view)__ (or via ACM Digital Library if you have access to the Wellesley VPN or network). Perhaps some submissions from [SIGBOVIK 2020](http://sigbovik.org/2020/) as well. We'll be meeting on Zoom; login info [here](https://docs.google.com/document/d/1aPG-IRz6zQ0NMwxxMwx67xBYBjCS1P4VNFwbyiCsCME/edit?usp=sharing) (note Wellesley sign-in required).
 
 02.15.2020 -- Gaby is leading a discussion of __["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi40qSc59PnAhV2gnIEHUh5AUIQFjAAegQIAxAB&url=https%3A%2F%2Fwww.usenix.org%2Fsystem%2Ffiles%2Fconference%2Fsoups2018%2Fsoups2018-sambasivan.pdf&usg=AOvVaw1AfT-v9Pnv2jzqEs07_hs9)__. Gaby suggests you consider the following questions as you’re engaging with the work to jump-start our discussion:

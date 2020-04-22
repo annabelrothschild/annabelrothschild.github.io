@@ -17,6 +17,8 @@ Claire suggests you consider the following questions as you're engaging with the
 * How does VR allow for a different emotional experience than other forms of media, and why?
 * How should we think about the ethics of designing VR experiences to induce strong emotions? What kinds of emotions are okay to design for and which aren't, and under what circumstances?
 
+******
+
 04.15.2020 -- Alissa is leading a discussion of __["The trouble with 'women in computing': a critical examination of the deployment of research on the gender gap in computer science"](https://drive.google.com/file/d/1P36u9zs2dEmbxdYoNdTBxFsNtqO8wdAn/view?usp=sharing)__. We'll be meeting on Zoom, view logistical details [here](https://docs.google.com/document/d/15TymPI-AZUPmFcupxOthg6tA9H_6l7YvX03tQmYhujQ/edit?usp=sharing) (requires Wellesley sign-in).
 
 Alissa suggets you consider the following questions as you're engaging with the work:
@@ -32,8 +34,11 @@ Alissa suggets you consider the following questions as you're engaging with the 
 	* How is it different?
 	* Should it be treated the same?
 
+******
 
 04.1.2020 -- Allison is leading a discussion of __["Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"](https://drive.google.com/file/d/1DjlJZ9eOhSMmU6m-iSliJ7lkBWyUPhRv/view)__ (or via ACM Digital Library if you have access to the Wellesley VPN or network). Perhaps some submissions from [SIGBOVIK 2020](http://sigbovik.org/2020/) as well. We'll be meeting on Zoom; login info [here](https://docs.google.com/document/d/1aPG-IRz6zQ0NMwxxMwx67xBYBjCS1P4VNFwbyiCsCME/edit?usp=sharing) (note Wellesley sign-in required).
+
+******
 
 02.15.2020 -- Gaby is leading a discussion of __["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi40qSc59PnAhV2gnIEHUh5AUIQFjAAegQIAxAB&url=https%3A%2F%2Fwww.usenix.org%2Fsystem%2Ffiles%2Fconference%2Fsoups2018%2Fsoups2018-sambasivan.pdf&usg=AOvVaw1AfT-v9Pnv2jzqEs07_hs9)__. Gaby suggests you consider the following questions as you’re engaging with the work to jump-start our discussion:
 

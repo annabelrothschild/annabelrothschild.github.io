@@ -4,6 +4,7 @@ title: Wellesley CS Reading Group
 permalink: /readinggroup/
 ---
 
+* TOC
 {:toc}
 
 ### Sessions

@@ -8,6 +8,14 @@ permalink: /readinggroup/
 
 ### Sessions
 
+04.29.2020 -- Claire is leading a discussion of __["Designing Awe in Virtual Reality"](https://drive.google.com/open?id=1_KWdMx1x2GBfwj2NAyqMjYpvU-eEiBTz)__. We'll be meeting on Zoom, view logistical details [here](https://docs.google.com/document/d/15TymPI-AZUPmFcupxOthg6tA9H_6l7YvX03tQmYhujQ/edit?usp=sharing) (requires Wellesley sign-in).
+
+Claire suggests you consider the following questions as you're engaging with the work:
+
+* How did the authors design their experiences to induce awe? What other kinds of experiences can you imagine that might induce awe?
+* How does VR allow for a different emotional experience than other forms of media, and why?
+* How should we think about the ethics of designing VR experiences to induce strong emotions? What kinds of emotions are okay to design for and which aren't, and under what circumstances?
+
 04.15.2020 -- Alissa is leading a discussion of __["The trouble with 'women in computing': a critical examination of the deployment of research on the gender gap in computer science"](https://drive.google.com/file/d/1P36u9zs2dEmbxdYoNdTBxFsNtqO8wdAn/view?usp=sharing)__. We'll be meeting on Zoom, view logistical details [here](https://docs.google.com/document/d/15TymPI-AZUPmFcupxOthg6tA9H_6l7YvX03tQmYhujQ/edit?usp=sharing) (requires Wellesley sign-in).
 
 Alissa suggets you consider the following questions as you're engaging with the work:

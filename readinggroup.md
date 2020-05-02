@@ -9,7 +9,7 @@ permalink: /readinggroup/
 
 ### Sessions
 
-Reading group has been a blast! Thanks to everyone who joined up this semester. I won't be on campus next year, so Allison and Gaby have offered to take the lead; reach out to them with questions.
+Reading group has been a blast! Thanks to everyone who joined in the fun this semester. I won't be on campus next year, so Allison and Gaby have offered to take the lead; reach out to them with questions.
 
 If you're wanting one last round of research talks, I suggest attending one of the public CS defenses. 
 

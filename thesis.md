@@ -1,6 +1,6 @@
 ---
 layout: page
-title: thesis
+title: Thesis (Bachelorarbeit)
 permalink: /undergraduate/thesis
 ---
 

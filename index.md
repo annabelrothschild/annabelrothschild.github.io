@@ -6,7 +6,7 @@ Hello,
 
 I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science at [Wellesley College](https://www.wellesley.edu/cs), with a minor in Math. My pronouns are [she/her](https://pronoun.is/she).
 
-<img style="padding: 6px" align="left" width="15%" src="images/annabel.png">
+<img style="padding-right: 10px" align="left" width="15%" src="images/annabel.png">
 
 My research interests broadly center around computer science education and increasing computing literacy; my [research page](https://annabelrothschild.com/research/) has more information. I also enjoy actively [teaching CS](https://annabelrothschild.com/teaching/).
 

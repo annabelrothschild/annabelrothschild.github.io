@@ -6,7 +6,7 @@ layout: home
 
 Hello, 
 
-I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science at [Wellesley College](https://www.wellesley.edu/cs), along with a minor in Math.
+I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science from [Wellesley College](https://www.wellesley.edu/cs), along with a minor in Math.
 
 <img style="padding-right: 10px" align="left" width="15%" src="images/annabel.png">
 

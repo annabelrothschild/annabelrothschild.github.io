@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p style="text-align:right;"><i>My pronouns are <a href="https://pronoun.is/she">she/her</a></i> </p>.
+<p style="text-align:right;"><i>My pronouns are <a href="https://pronoun.is/she">she/her</a>.</i> </p>
 
 Hello, 
 

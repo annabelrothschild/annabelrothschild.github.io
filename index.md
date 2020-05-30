@@ -7,16 +7,13 @@ layout: home
 
 Hello, 
 
-I am a computer science student at [Wellesley College](https://www.wellesley.edu/cs) outside of Boston, MA (USA); my pronouns are she/her/hers. My [research page](https://annabelrothschild.com/research/) has more information about the kinds of projects I enjoy working on (spoiler: if it involves CS education and/or programming languages I'm likely to be excited about it). It's probably not a surprise then that I also take great joy in [teaching CS](https://annabelrothschild.com/teaching/).
+I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science at [Wellesley College](https://www.wellesley.edu/cs), with a minor in Mathematics.
 
-Outside of computer science, I enjoy hiking, biking, and [cool art](https://annabelrothschild.com/personal/art/). My first language is English, my French is B2/C1, my German & Swedish are terrible but in progress. 
+My research interests broadly center around computer science education and increasing computing literacy; my [research page](https://annabelrothschild.com/research/) has more information. I also enjoy actively [teaching CS](https://annabelrothschild.com/teaching/).
 
-To contact me, please email me at either arothsch [at] wellesley [dot] edu or annabelrothschild [at] tuta [dot] io. 
+Outside of computer science, I enjoy hiking and [cool art](https://annabelrothschild.com/personal/art/). My first language is English, my French is B2/C1, my German & Swedish are terrible but in progress -- A2 at best (these are [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) scores).
 
-<img src="images/IMG_4988.JPG"
-     alt="Photo of Annabel'"
-     width="200" 
-     />
+<div style="text-align: right"><img src="/images/annabel.png" width="50" /></div>
 
 
 

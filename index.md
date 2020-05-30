@@ -2,9 +2,11 @@
 layout: home
 ---
 
+<p style="text-align:right;">My pronouns are <a href="https://pronoun.is/she">she/her</a> </p>
+
 Hello, 
 
-I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science at [Wellesley College](https://www.wellesley.edu/cs), with a minor in Math. My pronouns are [she/her](https://pronoun.is/she).
+I'm an incoming first year student in Georgia Tech's Human-Centered Computing PhD program. I recieved my undergraduate degree in Computer Science at [Wellesley College](https://www.wellesley.edu/cs), with a minor in Math.
 
 <img style="padding-right: 10px" align="left" width="15%" src="images/annabel.png">
 

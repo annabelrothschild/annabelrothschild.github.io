@@ -7,7 +7,7 @@ permalink: /personal/art/
 Mostly I keep this record as a list of inspirations, but in no particular order:
 
 * [Hilma af Klint](https://www.theguardian.com/artanddesign/2016/feb/21/hilma-af-klint-occult-spiritualism-abstract-serpentine-gallery).
-* W.E.B. Du Bois' (along with the contributions of his team) [visionary infographics](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/)
+* W.E.B. Du Bois' (and his teams') [visionary infographics](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/)
 * [Carrie Mae Weems](http://carriemaeweems.net/work.html) produces such brilliant, thought-provoking (and beautiful) work on a variety of important, pressing topics.
 * [_I Was Raised on the Internet_](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet) is perhaps one of the best exhibitions I've ever had the chance to see. 
 * I hope to one day see _[Radical Women: Latin American Art, 1960–1985](https://www.artsy.net/show/hammer-museum-radical-women-latin-american-art-1960-1985)_ in its entirety. Graciela Carnevale, Cecilia Vicunã, and Nelbia Romero amaze me with their ability to communicate such hefty messages through their respective visual mediums.

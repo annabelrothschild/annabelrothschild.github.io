@@ -213,7 +213,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
-    rack (2.0.7)
+    rack (2.1.4)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -260,7 +260,7 @@ DEPENDENCIES
   github-pages
   minima
   nokogiri (~> 1.6, >= 1.6.7)
-  rack (~> 2.0.1)
+  rack (~> 2.1.4)
   rspec
 
 BUNDLED WITH

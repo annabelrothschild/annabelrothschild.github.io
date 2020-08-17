@@ -5,7 +5,7 @@ permalink: /cv/
 order: 4
 ---
 
-# American Format
+# "United States" Format
 [Here](https://annabelrothschild.com/ARothschild_CV.pdf), last updated June 2020.
 
 # EU & Europass Format

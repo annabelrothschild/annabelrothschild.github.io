@@ -8,8 +8,10 @@ layout: home
 
 Hello! I'm a first year student in Georgia Tech's Human-Centered Computing PhD program. Previously, I studied CS at [Wellesley](https://www.wellesley.edu/cs). 
 
-My research interests broadly center around computing education and promoting computing literacy; my [research page](https://annabelrothschild.com/research/) has more information. I also enjoy actively [teaching CS](https://annabelrothschild.com/teaching/).
+My [research interests](https://annabelrothschild.com/research/) at a high level are computing education and promoting computing literacy. Currently, I'm thinking a lot about how to develop (critical-) data literacy skills in informal learning environments.
 
-Outside of computer science, I enjoy [cool art](https://annabelrothschild.com/personal/art/) and being outdoors. Aside from English, my French is B2/C1, and I am a habitual but poor student of  German & Swedish -- both are A2 at best; these are [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) scores. As for vital statistics, my blood-coffee content averages somewhere around 99%. 
+Outside of computer science, I'm often thinking about ['cool art'](https://annabelrothschild.com/personal/art/) or outdoors. Aside from English, my French is B2/C1, and I am a habitual but poor student of  German & Swedish (both are A2 at best). Those are [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) scores, by the way. 
+
+As for vital statistics, my blood-coffee content averages somewhere around 99% and my `sarcasm:serious` speech ratio is `100:1` (consider this fair warning).
 
 

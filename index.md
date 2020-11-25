@@ -8,7 +8,7 @@ layout: home
 
 Hello! I'm a first year student in Georgia Tech's Human-Centered Computing PhD program. Previously, I studied CS at [Wellesley](https://www.wellesley.edu/cs). 
 
-My [research interests](https://annabelrothschild.com/research/) at a high level are computing education and promoting computing literacy. Currently, I'm thinking a lot about how to develop (critical-) data literacy skills in informal learning environments and what it means to perform 'data work'.
+Currently, I'm thinking a lot about how to develop (critical-) data literacy skills in informal learning environments and what it means to perform 'data work'.
 
 <!--  These are some words and phrases I can't stop saying right now (please excuse some curious spellings):
 

@@ -1,0 +1,20 @@
+---
+layout: page
+title: Gnat Catcher
+permalink: /projects/gnat-catcher
+order: 2
+---
+# About the project
+
+A low-cost electronic fungus gnat catcher. The catcher has two settings:
+ *  1. User can turn the catcher on at any time by pressing a push-button, which controls one set of yellow lights (LEDs)
+ *  2. The catcher will turn on automatically in low light settings (say, nighttime) and off in high light settings (during the day) -- this feature controls a second, independent set of white lights (LEDs)
+ 
+# Materials
+
+* [Video](https://youtu.be/4O3Kp7wESNQ)
+* [Circuit logic], made with [Fritzing](https://fritzing.org/)
+* [Code (Arduino)](https://github.com/annabelrothschild/Gnat-Catcher)
+
+![Photo of the gnat catcher.](/images/gnat-catcher.npg)
+

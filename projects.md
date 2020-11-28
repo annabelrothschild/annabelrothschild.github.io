@@ -59,6 +59,8 @@ I worked with [Prof. Yanni Loukisass](http://loukissas.lmc.gatech.edu/) of Georg
 
 #### Gnat Catcher
 ------
+<br>
+![Gnat catcher.](/images/gnat-catcher.png)
 
 More information [here](https://annabelrothschild.com/projects/gnat-catcher).
 

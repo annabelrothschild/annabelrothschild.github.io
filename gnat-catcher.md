@@ -16,5 +16,5 @@ A low-cost electronic fungus gnat catcher. The catcher has two settings:
 * [Circuit logic](https://annabelrothschild.com/images/gc-circuit.pdf), made with [Fritzing](https://fritzing.org/)
 * [Code (Arduino)](https://github.com/annabelrothschild/Gnat-Catcher)
 
-![Photo of the gnat catcher.](/images/gnat-catcher.jpg)
+![Photo of the gnat catcher.](/images/gnat-catcher.png)
 

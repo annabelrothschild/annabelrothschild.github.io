@@ -5,7 +5,8 @@ permalink: /projects/
 order: 2
 ---
 
-
+* TOC
+{:toc}
 
 
 # Research News

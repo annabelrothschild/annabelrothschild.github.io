@@ -6,7 +6,7 @@ order: 2
 ---
 # About the project
 
-<img style="padding-left: 15px;padding-bottom: 15px" align="right" rc="images/gnat-catcher.png">
+<img style="padding-left: 15px;padding-bottom: 15px" align="right" rc="/images/gnat-catcher.png">
 
 A low-cost electronic fungus gnat catcher. The catcher has two settings:
  *  User can turn the catcher on at any time by pressing a push-button, which controls one set of yellow lights (LEDs)

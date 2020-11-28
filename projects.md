@@ -47,6 +47,13 @@ The project was covered by Wellesley College's [Daily Shot](https://www.wellesle
 
 In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.de/en/susanne-boll/) of the University of Oldenburg, as part of the [IRES Ubicomp program](http://hciunh.org/hci-ubicomp-ires/) co-directed by Dr. Andrew Kun of UNH and Dr. Orit Shaer of Wellesley. I was supervised by [Prof. Dr. Torben Wallbaum](http://torbenwallbaum.com/) and built _[FeelsLike](https://www.youtube.com/watch?v=b_j0_baWfU4)_ to help long distance partners share significant emotional moments. I continue to work on the development of _FeelsLike_ through present day.
 
+#### Gnat Catcher
+------
+<br>
+![Gnat catcher.](/images/gnat-catcher.png)
+
+More information [here](https://annabelrothschild.com/projects/gnat-catcher).
+
 #### The Atlanta Map Room
 ------
 <br>
@@ -57,12 +64,7 @@ _Video by Chris Polack._
 
 I worked with [Prof. Yanni Loukisass](http://loukissas.lmc.gatech.edu/) of Georgia Tech on the [Atlanta Map Room](http://loukissas.lmc.gatech.edu/uncategorized/atlanta-map-room/), where we sought to make data about gentrification more tangible and empower Atlantans to add missing context to presented data. Tech's news team wrote up a nice article about the Civic Data REU [here](http://ideas.gatech.edu/fifth-summer-civic-data-science-program-presents-community-focused-solutions), and here's a [link](https://www.atlantastudies.org/2018/12/04/local-data-design-lab-the-atlanta-map-room/) to a post we wrote for the _Atlanta Studies Blog_ about the project.
 
-#### Gnat Catcher
-------
-<br>
-![Gnat catcher.](/images/gnat-catcher.png)
 
-More information [here](https://annabelrothschild.com/projects/gnat-catcher).
 
 
 

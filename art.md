@@ -20,3 +20,5 @@ Mostly I keep this record as a list of inspirations, but in no particular order:
 * Cindy Sherman's [Untitled Film Stills](https://artlead.net/content/journal/modern-classics-cindy-sherman-untitled-film-stills/). I do grapple, however, with the tableaus in some of her other work (and the experiences they represent -- or perhaps appropriate or mock might be better words).
 * I admire the way [Yael Bartana](http://yaelbartana.com/biography) expresses her politics through art.
 * [hana vu](https://hanavu.bandcamp.com/) makes cool music.
+* [Etta James](https://en.wikipedia.org/wiki/Etta_James)
+* [Helga Weyhe](https://www.nytimes.com/2021/01/14/world/europe/helga-weyhe-dead.html)

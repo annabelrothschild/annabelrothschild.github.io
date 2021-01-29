@@ -7,7 +7,6 @@ order: 2
 
 * TOC
 {:toc}
-* Archives: [gnat catcher](https://annabelrothschild.com/projects/gnat-catcher), [Wellesley CS Reading Group](https://annabelrothschild.com/readinggroup/)
 
 
 # Research News
@@ -58,4 +57,8 @@ _Video by Chris Polack._
 
 I worked with [Prof. Yanni Loukisass](http://loukissas.lmc.gatech.edu/) of Georgia Tech on the [Atlanta Map Room](http://loukissas.lmc.gatech.edu/uncategorized/atlanta-map-room/), where we sought to make data about gentrification more tangible and empower Atlantans to add missing context to presented data. Tech's news team wrote up a nice article about the Civic Data REU [here](http://ideas.gatech.edu/fifth-summer-civic-data-science-program-presents-community-focused-solutions), and here's a [link](https://www.atlantastudies.org/2018/12/04/local-data-design-lab-the-atlanta-map-room/) to a post we wrote for the _Atlanta Studies Blog_ about the project.
 
+#### Personal projects
+------
+<br>
 
+[Gnat catcher](https://annabelrothschild.com/projects/gnat-catcher), [Wellesley CS Reading Group](https://annabelrothschild.com/readinggroup/)

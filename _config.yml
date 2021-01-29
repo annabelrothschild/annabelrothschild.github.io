@@ -34,7 +34,7 @@ header_pages:
  - projects.md
  - teaching.md
  - CV.md
- - blog.html
+ - /blog.html
 #to get table of contents
 
 

@@ -11,7 +11,7 @@ Author: Annabel Rothschild
 
 Address: TSRB, Georgia Institute of Technology, Atlanta, GA USA.
 
-Email: annabelrothschild [at] tuta [dot] io
+Email: kontakt at annabelrothschild dot com
 
 Please email me for my telephone number.
 

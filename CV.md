@@ -10,7 +10,9 @@ order: 4
 Language skills:
 
   English: first language
+  
   French: conversational (B2/C1 on good day)
+  
   German, Swedish: A2 (very bad)
 
-Visa-free authorization: United States + European Economic Area (EEA) countries
+Visa-free work authorization: United States + European Economic Area (EEA) countries

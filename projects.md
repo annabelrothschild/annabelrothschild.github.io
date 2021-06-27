@@ -8,20 +8,7 @@ order: 2
 * TOC
 {:toc}
 
-
-# Research News
-
-* May 2020: I successfully defended my honors thesis! Thanks so much to everyone who came, it was so much fun to have you all there.
-* September 2019: a [review](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2019-09-30/Recent_research) of our C+J 2019 paper was published in The Signpost, the online newspaper of the English-language Wikipedia.
-
-# Research Statement
-
-At a high level, I'm interested in helping individuals reason about the socio-technical systems they interact with. One manifestation of this is computing education; I am especially passionate about its applications in informal contexts at various age levels. I'm also excited about projects that promote data literacy and help individuals build on their existing data-evaluation skills. I strongly reject the notion that there are computer scientists and everyone else; instead, I think every individual already understands the underlying logic of programming (they use those same skills to make their way through everyday life), it's just a matter of finding the most effective ways to help them translate that into code.
-
-I also have a secondary interest in the role of programming languages in computing education; particularly their design paradigm and syntax.
-
-
-# Projects
+# Past Projects
 
 #### Proactive Privacy Protections for Smartphone Users
 ------

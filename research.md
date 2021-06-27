@@ -8,20 +8,8 @@ order: 2
 * TOC
 {:toc}
 
-
-# Research News
-
-* May 2020: I successfully defended my honors thesis! Thanks so much to everyone who came, it was so much fun to have you all there.
-* September 2019: a [review](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2019-09-30/Recent_research) of our C+J 2019 paper was published in The Signpost, the online newspaper of the English-language Wikipedia.
-
-# Research Statement
-
-At a high level, I'm interested in helping individuals reason about the socio-technical systems they interact with. One manifestation of this is computing education; I am especially passionate about its applications in informal contexts at various age levels. I'm also excited about projects that promote data literacy and help individuals build on their existing data-evaluation skills. I strongly reject the notion that there are computer scientists and everyone else; instead, I think every individual already understands the underlying logic of programming (they use those same skills to make their way through everyday life), it's just a matter of finding the most effective ways to help them translate that into code.
-
-I also have a secondary interest in the role of programming languages in computing education; particularly their design paradigm and syntax.
-
-
-# Projects
+<br>
+<br>
 
 #### Proactive Privacy Protections for Smartphone Users
 ------
@@ -29,6 +17,9 @@ I also have a secondary interest in the role of programming languages in computi
 ![Photo of thesis defense slideshow showing title.](/images/thesis_defense.png)
 
 I spent my senior year at Wellesley working on [thesis](https://annabelrothschild.com/undergraduate/thesis) under the supervision of [Prof. Ada Lerner](https://www.wellesley.edu/cs/faculty/lerner). My goal was to synthesize existing work on protecting smartphone user data and to try to figure out why many of these excellent systems and tools hadn't yet been adopted. I then developed a blueprint for a proactive privacy system to address these obstacles to adoption, after designing and conducting user surveys to inform the design of such a system.
+
+<br>
+<br>
 
 #### Newspapers on Wikipedia (#NOW) Project
 ------
@@ -40,12 +31,18 @@ I worked with [Prof. Eni Mustafaraj](https://cs.wellesley.edu/~eni/) of Wellesle
 
 The project was covered by Wellesley College's [Daily Shot](https://www.wellesley.edu/news/2018/stories/node/161316) and resulted in a paper at 2019 Computation + Journalism symposium.
 
+<br>
+<br>
+
 #### FeelsLike
 ------
 <br>
 ![Photo of FeelsLike poster heading.](/images/feelslike.png)
 
-In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.de/en/susanne-boll/) of the University of Oldenburg, as part of the [IRES Ubicomp program](http://hciunh.org/hci-ubicomp-ires/) co-directed by Dr. Andrew Kun of UNH and Dr. Orit Shaer of Wellesley. I was supervised by [Prof. Dr. Torben Wallbaum](http://torbenwallbaum.com/) and built _[FeelsLike](https://www.youtube.com/watch?v=b_j0_baWfU4)_ to help long distance partners share significant emotional moments. I continue to work on the development of _FeelsLike_ through present day.
+In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.de/en/susanne-boll/) of the University of Oldenburg, as part of the [IRES Ubicomp program](http://hciunh.org/hci-ubicomp-ires/) co-directed by Dr. Andrew Kun of UNH and Dr. Orit Shaer of Wellesley. I was supervised by [Prof. Dr. Torben Wallbaum](http://torbenwallbaum.com/) and built _[FeelsLike](https://www.youtube.com/watch?v=b_j0_baWfU4)_ to help long distance partners share significant emotional moments. 
+
+<br>
+<br>
 
 #### The Atlanta Map Room
 ------
@@ -56,6 +53,9 @@ In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.
 _Video by Chris Polack._
 
 I worked with [Prof. Yanni Loukisass](http://loukissas.lmc.gatech.edu/) of Georgia Tech on the [Atlanta Map Room](http://loukissas.lmc.gatech.edu/uncategorized/atlanta-map-room/), where we sought to make data about gentrification more tangible and empower Atlantans to add missing context to presented data. Tech's news team wrote up a nice article about the Civic Data REU [here](http://ideas.gatech.edu/fifth-summer-civic-data-science-program-presents-community-focused-solutions), and here's a [link](https://www.atlantastudies.org/2018/12/04/local-data-design-lab-the-atlanta-map-room/) to a post we wrote for the _Atlanta Studies Blog_ about the project.
+
+<br>
+<br>
 
 #### Personal projects
 ------

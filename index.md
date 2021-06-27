@@ -2,14 +2,10 @@
 layout: home
 ---
 
-<p style="text-align:right;"><i>My pronouns are <a href="https://pronoun.is/she">she/her</a>, profile image by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>.</i></p>
-
 <img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" src="images/arr.jpg">
 
-Hello! I'm a first year student in Georgia Tech's Human-Centered Computing PhD program. Previously, I studied CS at [Wellesley](https://www.wellesley.edu/cs). 
+I am a PhD student at Georgia Tech, from August 2020. Before that, I studied CS at [Wellesley College](https://www.wellesley.edu/cs). A current(ish) copy of my cv is [here](https://docs.google.com/document/d/17xsQWARRODKBcnFjARglB1-IYF9KlgqcIHPTYt-Yz5A/edit?usp=sharing).
 
-Currently, I'm thinking a lot about how to develop _(critical) data literacy skills_ in informal learning environments and what it means to perform _data work_.
+My research centers around data work; who performs it, how it happens, and more fundamentally, what we consider the term to mean. 
 
-As for vital statistics, my blood-coffee content averages somewhere around 99%.
-
-
+My pronouns are <a href="https://pronoun.is/she">she/her</a>. The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>.

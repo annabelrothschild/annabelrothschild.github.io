@@ -10,4 +10,6 @@ My research centers around data work; who performs it, how it happens, and more 
 
 I care quite a bit about data privacy. I keep a [spreadsheet](https://docs.google.com/spreadsheets/d/1eyy-YyFMA6gLla9F999hdHuxJlFO5M7G5hC9KW5bLS0/edit?usp=sharing) of the temporal + financial cost of protecting just my own personal information. 
 
+-------
+
 My pronouns are <a href="https://pronoun.is/she">she/her</a>. The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>. This site is built with Jekyll and hosted by GitHub pages.

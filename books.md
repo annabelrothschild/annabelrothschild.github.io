@@ -4,7 +4,7 @@ title: Reading list for data-intensive systems
 permalink: /books
 ---
 
-While I don't necessarily agree with all points made by these respective works, I have found them valuable for expanding (and challenging) my thinking on the human side of data-intensive systems. This list is neither static, nor frequently updated, but I always appreciate suggestions.
+While I don't necessarily agree with all points made by these respective works, I have found them valuable for expanding (and challenging) my thinking on the human side of data-intensive systems. This list is neither static, nor frequently updated, but I always appreciate suggestions. Titles are written in the French grammatical style generally because that is the singular piece of French grammar that I quite like.
 
 Labor perspective of digital piecework:
 - Work without the workers (Peter Jones)

@@ -12,6 +12,6 @@ I also care quite a bit about data privacy. I keep a [spreadsheet](https://docs.
 
 
 ---------------------------------------------------------------
-
+<br>
 
 My pronouns are <a href="https://pronoun.is/she">she/her</a>. The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>. This site is built with Jekyll and hosted by GitHub pages.

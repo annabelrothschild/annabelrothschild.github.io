@@ -20,6 +20,7 @@ Critiques of modern data-intensive systems:
 - Weapons of math destruction (Cathy O'Neil)
 - Everybody lies (Seth Stephens-Davidowitz) 
 - Invisible women (Caroline Criado Pérez)
+- Data feminism (Catherine D'Ignazio, Lauren Klein)
 
 Environmental impact of data-intensive systems:
 - Atlas of AI (Kate Crawford) [chapter 1]
@@ -28,6 +29,7 @@ Environmental impact of data-intensive systems:
 Technical inspections of data and missing data:
 - Redacted (Lilly Irani, Jesse Marx)
 - Artificial unintelligence (Meredith Broussard) 
+- All data are local (Yanni Loukissas)
 
 Techno-solutionism approaches to bias and their critiques:
 - The ethical algorithm (Michael Kearns, Aaron Roth)

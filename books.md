@@ -6,10 +6,10 @@ permalink: /books
 
 While I don't necessarily agree with all points made by these respective works, I have found them valuable for expanding (and challenging) my thinking on the human side of data-intensive systems. This list is neither static, nor frequently updated, but I always appreciate suggestions. Titles are written in the French grammatical style generally because that is the singular piece of French grammar that I quite like.
 
-Labor perspective of digital piecework:
+Labor perspective of digital piecework and/or modern computing:
 - Work without the workers (Peter Jones)
 - Behind the screen (Sarah T. Roberts)
-- Ghost Work (Mary Gray, Siddharth Suri)
+- Ghost work (Mary Gray, Siddharth Suri)
 - Encoding race, encoding class (Sareeta Amrute) 
 - What you are getting wrong about Appalachia (Elizabeth Catte)
 
@@ -24,7 +24,7 @@ Critiques of modern data-intensive systems:
 
 Environmental impact of data-intensive systems:
 - Atlas of AI (Kate Crawford) [chapter 1]
-- The politics of Bitcoin (David Golumbia) 
+- The politics of bitcoin (David Golumbia) 
 
 Technical inspections of data and missing data:
 - Redacted (Lilly Irani, Jesse Marx)
@@ -35,6 +35,10 @@ Techno-solutionism approaches to bias and their critiques:
 - The ethical algorithm (Michael Kearns, Aaron Roth)
 - The promise of access (Daniel Greene) 
 - The internet police (Nate Anderson)
+
+Historical (or situated) discussions of computing ethos:
+- From counterculture to cyberculture (Fred Turner)
+- Your computer is on fire (Mar Hicks, Thomas S. Mullaney, Benjamin Peters, Kavita Philip)
 
 Complexity of data terminology, use, and preservation:
 - Native American DNA (Kim Tallbear)

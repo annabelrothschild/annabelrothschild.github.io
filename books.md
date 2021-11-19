@@ -39,6 +39,7 @@ Techno-solutionism approaches to bias and their critiques:
 Historical (or situated) discussions of computing ethos:
 - From counterculture to cyberculture (Fred Turner)
 - Your computer is on fire (Mar Hicks, Thomas S. Mullaney, Benjamin Peters, Kavita Philip)
+- Silicon values (Jillian York)
 
 Complexity of data terminology, use, and preservation:
 - Native American DNA (Kim Tallbear)

@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "How to write a statement of purpose for interdisciplinary PhD programs"
+title: "How to write a statement of purpose for computing-as-an-approach PhD programs"
 subtitle: 
 author: Annabel
 ---
-
-# How to write a compelling statement of purpose for interdisciplinary (but computing adjacent) PhD applications
 
 _This guide comes with two important caveats:_
 * I have never sat on a hiring committee. I read a lot of graduate statements as a part of formal and informal outreach programs, but I am not a decision-maker myself; my idea of what a “good” statement looks like is based on whether their authors ended up joining a program that they were happy to be joining rather than my own judgment of what a “good” program looks like.

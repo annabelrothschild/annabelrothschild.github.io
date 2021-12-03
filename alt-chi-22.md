@@ -20,5 +20,5 @@ This work contributes to just and pro-social treatment of digital pieceworkers (
 
 ## To submit feedback
 
-[GitHub project link.](https://github.com/annabelrothschild/pro-social_crowd_collaborator_recruitment_guidelines)
-[Google Docs link.](https://forms.gle/wJnoWK6yZ7dDNNXE6)
+1. [GitHub project link.](https://github.com/annabelrothschild/pro-social_crowd_collaborator_recruitment_guidelines)
+2. [Google Docs link.](https://forms.gle/wJnoWK6yZ7dDNNXE6)

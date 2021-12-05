@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "alt.chi '22: Towards fair and pro-social employment of digital pieceworkers for machine learning training data"
+title: "alt.chi '22: Towards fair and pro-social employment of digital pieceworkers for sourcing machine learning training data"
 permalink: /projects/alt.chi-22/pro-social_crowd_collaborator_recruitment_guidelines
 ---
 

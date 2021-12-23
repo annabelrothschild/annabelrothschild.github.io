@@ -10,7 +10,7 @@ order: 2
 * TOC
 {:toc}
 
-# [2021]
+## [2021]
 ------
 <br>
 
@@ -18,7 +18,7 @@ order: 2
 
 * [Britney Johnson](https://www.linkedin.com/in/britney-johnson-8b904555/), [Ben Rydal Shapiro](https://www.benrydal.com/), [Betsy DiSalvo](http://www.betsydisalvo.com/), Annabel Rothschild, and [Carl DiSalvo](https://www.carldisalvo.com/). 2021. Exploring Approaches to Data Literacy Through a Critical Race Theory Perspective. In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_ (_CHI '21_). Association for Computing Machinery, New York, NY, USA, Article 706, 1–15. [DOI](https://doi.org/10.1145/3411764.3445141). [PDF](/documents/Johnson_CSCW_2021.pdf)
 
-# [2019]
+## [2019]
 ------
 <br>
 

@@ -5,7 +5,7 @@ permalink: /publications/
 order: 2
 ---
 
-In the event of citation, please note that my last name is spelled "Roth[__s__]child" (the "s" is silent when spoken in English, i.e. roth-child, as the German "sch" is condensed to a hard "ch" in English). Either pronunciation is fine, but the spelling always includes the "s". This is because the "s" signifies a specific cultural and ethnic identity that is distinct from the unrelated "Rothchild" Danish lineage. At part of American assimilation practices for refugees in the mid-20th century, my family was almost forced to remove the "s" as a part of a clarified "Americanized" spelling. However, the "s" speaks  of the survival despite persecuted and I am protective of it as such. If you feel a need to ask if I am responsible for the illuminati, space lasers, or any other idiotic internet conspiracy theory, the answer is: Yes. You should be very scared of my imminent scorn, indeed.  
+* Please note (in the event of citation) that there is an "s" in my last [name](name.md) (Roth[__s__]child).  
 
 [2021]
 

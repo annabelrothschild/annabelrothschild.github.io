@@ -5,7 +5,11 @@ permalink: /publications/
 order: 2
 ---
 
+In the event of citation, please note that my last name is spelled "Roth[__s__]child" (the "s" is silent when spoken in English, i.e. roth-child, as the German "sch" is condensed to a hard "ch" in English). Either pronunciation is fine, but the spelling always includes the "s". This is because the "s" signifies a specific cultural and ethnic identity that is distinct from the unrelated "Rothchild" Danish lineage. At part of American assimilation practices for refugees in the mid-20th century, my family was almost forced to remove the "s" as a part of a clarified "Americanized" spelling. However, the "s" speaks  of the survival despite persecuted and I am protective of it as such. If you feel a need to ask if I am responsible for the illuminati, space lasers, or any other idiotic internet conspiracy theory, the answer is: Yes. You should be very scared of my imminent scorn, indeed.  
+
 [2021]
+
+Annabel Rothschild, Carl DiSalvo](https://www.carldisalvo.com/), and [Betsy DiSalvo](http://www.betsydisalvo.com/). 2021. Towards a Community-Defined Framework for Responsible Digital Piecework Requests. Accepted position paper in [_The Global Labours of AI and Data Intensive Systems_](https://globaltechandsociety.red/cscw2021/) workshop at CSCW 2021. [PDF](/documents/Rothschild_GlobalLabors_2021.pdf)
 
 [Britney Johnson](https://www.linkedin.com/in/britney-johnson-8b904555/), [Ben Rydal Shapiro](https://www.benrydal.com/), [Betsy DiSalvo](http://www.betsydisalvo.com/), Annabel Rothschild, and [Carl DiSalvo](https://www.carldisalvo.com/). 2021. Exploring Approaches to Data Literacy Through a Critical Race Theory Perspective. In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_ (_CHI '21_). Association for Computing Machinery, New York, NY, USA, Article 706, 1–15. [DOI](https://doi.org/10.1145/3411764.3445141). [PDF](/documents/Johnson_CSCW_2021.pdf)
 

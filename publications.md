@@ -5,7 +5,7 @@ permalink: /publications/
 order: 2
 ---
 
-#### Please note (in the event of citation) that there is an "s" in my last [name](name.md) (Roth[__s__]child). 
+###### Please note (in the event of citation) that there is an "s" in my last [name](name.md) (Roth[__s__]child). ######
 
 <!-- * TOC
 {:toc} -->

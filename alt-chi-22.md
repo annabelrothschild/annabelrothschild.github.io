@@ -17,7 +17,7 @@ This work contributes to just and pro-social treatment of digital pieceworkers (
 1. A [blank version](https://annabelrothschild.com/documents/alt-chi-22/Cover-Sheet-Fillable.pdf) of the cover sheet with labels matching the article submitted to alt.chi 2022.
 2. An [example filled-out version](https://annabelrothschild.com/documents/alt-chi-22/Cover-Sheet-Fillable-example.pdf) of the cover sheet.
 3. A [translation of the Fig 1 image](https://annabelrothschild.com/documents/alt-chi-22/Fig1-text-translation.docx) that renders the comments from the data workers in plain text.
-4. A version of the paper (link not available until alt.chi review process begins).
+4. A version of the paper is [here](https://annabelrothschild.com/documents/alt-chi-22/Rothschild_Guidelines.pdf).
 
 ## To submit feedback
 

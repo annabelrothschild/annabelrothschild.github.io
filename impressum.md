@@ -5,13 +5,15 @@ permalink: /impressum/
 order: 1
 ---
 
-[Telemediengesetz](https://de.wikipedia.org/wiki/Telemediengesetz) ([English explanation](https://www.termsfeed.com/blog/impressum/)).
+Per [Telemediengesetz](https://de.wikipedia.org/wiki/Telemediengesetz). 
 
-Author: Annabel Rothschild
+Author: Annabel R. Rothschild
 
-Address: TSRB, Georgia Institute of Technology, Atlanta, GA USA.
+Address: I move between the US and Germany and therefore don't maintain a reliable German address. Anything addressed to "Annabel Rothschild, School of Interactive Computing, Georgia Institute of Technology, Atlanta, GA 30308 USA" will likely find me, however email me if you need urgent contact.
 
 Email: [see here](https://annabelrothschild.com/contact/).
 
-Please email me for my telephone number. Honestly, I don't answer my phone anyway.
+Phone number: Please email me for my telephone number. I maintain a German phone number but do not regularly check it. 
+
+
 

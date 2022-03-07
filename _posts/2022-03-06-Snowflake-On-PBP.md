@@ -40,3 +40,5 @@ $ curl -L "https://github.com/docker/compose/releases/download/v2.2.2/docker-com
 code();
 $ docker-compose up -d && docker ps
 ~~~
+
+If you're still feeling edgy about *what* supporting Tor means (anti-censorship is good, illicit/illegal stuff is...probably bad), here's a [good read](https://medium.com/@calyxinsta/tor-and-snowflakes-how-you-can-be-part-of-the-digital-privacy-solution-5849ce2479e) (scroll down to the last part). Mainly: who will be most affected if Tor (+ Snowflake, as an anti-censorship tool) ceases to function? 

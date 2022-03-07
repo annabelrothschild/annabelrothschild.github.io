@@ -5,7 +5,7 @@ subtitle:
 author: Annabel
 ---
 
-I've been running [browser-based Snowflake instances](https://snowflake.torproject.org/) for a week or so now and notice that I get the most activity (aka my instance is actually useful) at times I'm not reliably on my laptop. So, I set up a standalone instance on my currently minimally-used [PineBook Pro](https://pine64.com/product/14%E2%80%B3-pinebook-pro-linux-laptop-ansi-us-keyboard/?v=0446c16e2e66). But, my PBP has terrible battery life so I thought I'd leave it running during the day and didn't need the battery drain of a GUI, so I went to follow [these steps](https://community.torproject.org/relay/setup/snowflake/standalone/), with the goal of running it off a small solar generator & panel I have set up. 
+I've been running [browser-based Snowflake instances](https://snowflake.torproject.org/) for a week or so now and notice that I get the most activity (aka my instance is actually useful) at times I'm not reliably on my laptop. So, I set up a standalone instance on my currently minimally-used [PineBook Pro](https://pine64.com/product/14%E2%80%B3-pinebook-pro-linux-laptop-ansi-us-keyboard/?v=0446c16e2e66). I wanted to leave it running during the day and didn't need the battery drain of a GUI (my PBP has a terrible battery life [to be fixed at some indiscriminate future date]), so I went to follow [these steps](https://community.torproject.org/relay/setup/snowflake/standalone/), with the goal of running it off a small solar generator & panel I have set up. 
 
 Chaos ensued. I would use my PBP so much more regularly if ARM64 was...a few years more developed (sigh). Anyway, after much trial and error, here's what worked on my Armbian (Ubuntu-based)-running ('focal' version) PBP:
 

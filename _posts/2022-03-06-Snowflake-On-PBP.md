@@ -11,25 +11,21 @@ Chaos ensued. I would use my PBP so much more regularly if ARM64 was...a few yea
 
 * Get Docker (different directions than regular Docker download)
 ~~~text
-code();
 $ curl -fsSL test.docker.com -o get-docker.sh && sh get-docker.sh
 ~~~
 
 * Go ahead and add Docker to usergroup if that's your thing. Reminder to logout after doing so.
 ~~~text
-code();
 $ sudo usermod -aG docker [your-username]
 ~~~
 
 * Test Docker
 ~~~text
-code();
 $ docker run hello-world
 ~~~
 
 * Get Docker-Compose
 ~~~text
-code();
 $ curl -L "https://github.com/docker/compose/releases/download/v2.2.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose 
 ~~~
 
@@ -37,7 +33,6 @@ $ curl -L "https://github.com/docker/compose/releases/download/v2.2.2/docker-com
 
 * Run your instance
 ~~~text
-code();
 $ docker-compose up -d && docker ps
 ~~~
 

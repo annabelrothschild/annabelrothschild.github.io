@@ -5,7 +5,7 @@ layout: home
 <img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg">
 </figure>
 
-I am a human-centered computing PhD student at Georgia Tech where I am member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. Before that, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs). A current(ish) copy of my cv is [here](https://docs.google.com/document/d/17xsQWARRODKBcnFjARglB1-IYF9KlgqcIHPTYt-Yz5A/edit?usp=sharing) and my pronouns are she/her.
+I am a human-centered computing PhD student at Georgia Tech where I am member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. Before that, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs). A current(ish) copy of my cv is [here](/documents/Rothschild_CV.pdf) and my pronouns are she/her.
 
 Data work is the focus of my research; I investigate who performs it and how they go about it. My approach is informed by critical data studies and a desire to preserve the social context in which a dataset was promulgated (namely, "who, what, where, when, why, how"). My current projects center the labor context of digital piecework platforms (e.g., Amazon Mechanical Turk) and the impacts of de-professionalization and task atomization on both individuals and the data they work with. I am also interested in building software systems and tools that support environmental documentation, while minimizing effort and invasiveness.
 

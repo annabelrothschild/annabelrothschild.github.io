@@ -14,7 +14,7 @@ order: 2
 
 * Annabel Rothschild, Justin Booker, Christa Davoll, Jessica Hill, Venise Ivey, Carl DiSalvo, Benjamin Rydal Shapiro, and Betsy DiSalvo. 2022. Towards fair and pro-social employment of digital pieceworkers for sourcing machine learning training data. In alt.chi ’2022: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, April 30 - May 6, 2022, New Orleans, Louisiana. ACM, New York, NY, USA, 12 pages. [Project page](https://annabelrothschild.com/projects/alt.chi-22/pro-social_crowd_collaborator_recruitment_guidelines).
 
-* Annabel Rothschild, Carl DiSalvo, Amanda Wooten, and Betsy DiSalvo. 2022. Understanding civic and non-profit data through a custom data lifecycle. Accepted position paper in [_ Investigating Data Work Across Domains: New Perspectives on the Work of Creating Data_](https://web.asu.edu/dataworkworkshopchi2022/home) workshop at CHI 2022. [PDF](/documents/Rothschild_NonProfitCivicData_2022.pdf).
+* Annabel Rothschild, Carl DiSalvo, Amanda Wooten, and Betsy DiSalvo. 2022. Understanding civic and non-profit data through a custom data lifecycle. Accepted position paper in [_Investigating Data Work Across Domains: New Perspectives on the Work of Creating Data_](https://web.asu.edu/dataworkworkshopchi2022/home) workshop at CHI 2022. [PDF](/documents/Rothschild_NonProfitCivicData_2022.pdf).
 
 ### [2021]
 ------

@@ -5,7 +5,7 @@ layout: home
 <img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg">
 </figure>
 
->> If you are here looking for the alt.chi publication information, that linked page can be found [here](https://annabelrothschild.com/projects/alt.chi-22/pro-social_crowd_collaborator_recruitment_guidelines).<<
+>> From June - August 2022 I am a visiting PhD researcher in [Prof. Dr. Janne Lindqvist's group](https://www.lindqvistlab.org/) at Aalto University (FI).<<
 
 I am a human-centered computing PhD student at Georgia Tech where I am member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. Before that, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs). A current(ish) copy of my cv is [here](/documents/Rothschild_CV.pdf) and my pronouns are she/her.
 

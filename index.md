@@ -13,6 +13,6 @@ Data work is the focus of my research. I investigate who performs it and how the
 
 My perspective on human agents in data-intensive systems is informed by [these books](https://annabelrothschild.com/books), along with prior experience (and continued interest) in programming languages, usable security and privacy, and information dissemination in modern media.
 
-On the personal side, I keep a kind of data diary of [the temporal and financial cost](https://docs.google.com/spreadsheets/d/1eyy-YyFMA6gLla9F999hdHuxJlFO5M7G5hC9KW5bLS0/edit?usp=sharing) of protecting my personal information on the web, mostly to highlight the barriers to doing so. 
+On the personal side, I keep a kind of data diary of [the temporal and financial cost](https://docs.google.com/spreadsheets/d/1eyy-YyFMA6gLla9F999hdHuxJlFO5M7G5hC9KW5bLS0/edit?usp=sharing) of protecting my personal information on the web -- mostly to highlight the barriers to doing so. 
 
 _The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>. This site is built with Jekyll and hosted by GitHub pages._

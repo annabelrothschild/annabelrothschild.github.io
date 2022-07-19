@@ -15,4 +15,4 @@ _We are also specifically seeking individuals who have used a "designer dumbphon
 
 {2} Our definition of high-income is having been able to purchase and use a smartphone, but have chosen to use a dumbphone instead. We are looking for individuals for whom using a smartphone would be the default, but they have actively sought to use a dumbphone instead.
 
-![dumbphone](../images/dumbphone.png)
+![A nokia dumbphone (basic phone)](https://github.com/annabelrothschild/annabelrothschild.github.io/blob/7f32f0102af020d9b07bc5cb25b998369f2b5719/images/dumbphone.png)

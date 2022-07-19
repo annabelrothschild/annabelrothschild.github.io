@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recruting for study on dumbphone use and users"
+title: "Recruiting  for study on dumbphone use and users"
 subtitle: 
 author: Annabel
 ---

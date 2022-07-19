@@ -2,8 +2,7 @@
 layout: post
 title: "Recruiting  for study on dumbphone use and users"
 subtitle: 
-thumbnail: "https://annabelrothschild.com/images/dumbphone.png"
-image: "https://annabelrothschild.com/images/dumbphone.png"
+thumbnail: "/images/dumbphone.png"
 author: Annabel
 ---
 

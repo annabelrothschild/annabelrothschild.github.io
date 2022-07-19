@@ -5,7 +5,7 @@ subtitle:
 author: Annabel
 ---
 
-<img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="A nokia dumbphone (basic phone)" src="images/dumbphone.png">
+<img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="A nokia dumbphone (basic phone)" src="/images/dumbphone.png">
 
 We ([researchers at Aalto University](https://www.lindqvistlab.org/)) are running an interview-based study to better understand users of "dumbphones" and the people who use them. 
 

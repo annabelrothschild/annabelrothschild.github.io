@@ -11,6 +11,8 @@ order: 2
 {:toc} -->
 
 ### [2022]
+------
+<br>
 
 * Annabel Rothschild, Justin Booker, Christa Davoll, Jessica Hill, Venise Ivey, Carl DiSalvo, Benjamin Rydal Shapiro, and Betsy DiSalvo. 2022. Towards fair and pro-social employment of digital pieceworkers for sourcing machine learning training data. In alt.chi ’2022: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, April 30 - May 6, 2022, New Orleans, Louisiana. ACM, New York, NY, USA, 12 pages. [Project page](https://annabelrothschild.com/projects/alt.chi-22/pro-social_crowd_collaborator_recruitment_guidelines).
 

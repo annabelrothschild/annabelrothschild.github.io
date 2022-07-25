@@ -15,7 +15,7 @@ order: 2
 <br>
 ![Photo of thesis defense slideshow showing title.](/images/thesis_defense.png)
 
-I spent my senior year at Wellesley working on [thesis](https://annabelrothschild.com/undergraduate/thesis) under the supervision of [Prof. Ada Lerner](https://www.wellesley.edu/cs/faculty/lerner). My goal was to synthesize existing work on protecting smartphone user data and to try to figure out why many of these excellent systems and tools hadn't yet been adopted. I then developed a blueprint for a proactive privacy system to address these obstacles to adoption, after designing and conducting user surveys to inform the design of such a system.
+I spent my senior year at Wellesley working on [thesis](https://annabelrothschild.com/undergraduate/thesis) under the supervision of [Prof. Ada Lerner](https://adalerner.com/). My goal was to synthesize existing work on protecting smartphone user data and to try to figure out why many of these excellent systems and tools hadn't yet been adopted. I then developed a blueprint for a proactive privacy system to address these obstacles to adoption, after designing and conducting user surveys to inform the design of such a system.
 
 #### Newspapers on Wikipedia (#NOW) Project
 ------

@@ -13,6 +13,7 @@ order: 2
 ### [2022]
 ------
 <br>
+
 * Annabel Rothschild, Amanda Meng, Carl DiSalvo, Britney Johnson, Ben Rydal Shapiro, and Betsy DiSalvo. 2022. Interrogating Data Work as a Community of Practice. Proceedings of the ACM on Human-Computer Interaction 6, Article 307 (November 2022) (2022), 29. DOI:https://doi.org/10.1145/3555198
 
 

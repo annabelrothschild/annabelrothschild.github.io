@@ -16,4 +16,4 @@ In my spare time, I enjoy reading about [anything tangentially related to data a
 _The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>. This site is built with Jekyll and hosted by GitHub pages._
 
 [^1]: Think HCI (human-computer interaction). But with more pizzazz. 
-[^2]: Yes, Wellesley is a historically women's college (note: not a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just the last three funny tweets I saw on the topic.  
+[^2]: Yes, Wellesley is a historically women's college (note: not a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just get the last three funny tweets I saw on the topic.  

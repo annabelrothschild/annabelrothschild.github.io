@@ -4,8 +4,8 @@ layout: home
 
 <figure>
 <img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg">
+  <figcaption>I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>, made instead.</figcaption>
 </figure> 
-[^3]
 
 I am a [human-centered computing](https://hcc.cc.gatech.edu/)[^1] PhD student at Georgia Tech and a member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. A current(ish) copy of my cv is [here](/documents/Rothschild_CV.pdf) and my pronouns are she/her. I am primarily advised by [Dr. Betsy DiSalvo](http://www.betsydisalvo.com/), co-advised by [Dr. Carl DiSalvo](https://www.carldisalvo.com/), and collaborate closely with [Dr. Ben Rydal Shapiro (GSU)](https://www.benrydal.com/). Before Georgia Tech, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs)[^2]. 
 
@@ -17,4 +17,3 @@ _The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodrigue
 
 [^1]: Think HCI (human-computer interaction). But with more pizzazz. 
 [^2]: Yes, Wellesley is a historically women's college (note: not a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just the last three funny tweets I saw on the topic.  
-[^3]: I generally avoid posting pictures of myself on the internet and think contemporary requirements to do so are weird. So, please enjoy this doodle by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a> instead.

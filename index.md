@@ -2,8 +2,8 @@
 layout: home
 ---
 
-<figure>
-<img align="center" width="25%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg"> 
+<figure align="center">
+<img width="50%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg"> 
   <figcaption>I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>, made instead.</figcaption>
 </figure> 
 

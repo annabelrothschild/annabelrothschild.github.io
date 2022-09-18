@@ -4,7 +4,7 @@ layout: home
 {: style="text-align:center"}
 ![I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, Hershel, made instead.](/images/arr.jpg)
   
-{: style="text-align:center"}
+
 [Here's my CV](/documents/Rothschild_CV.pdf). 
 My pronouns are she/her.
 

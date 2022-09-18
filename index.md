@@ -1,10 +1,11 @@
 ---
 layout: home
 ---
-
+<centering>
 ![I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, Hershel, made instead.](/images/arr.jpg)
 
  [Here's my CV](/documents/Rothschild_CV.pdf). My pronouns are she/her.
+ </centering>
 
 I am a [human-centered computing](https://hcc.cc.gatech.edu/)[^1] PhD student at Georgia Tech and a member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. I am primarily advised by [Dr. Betsy DiSalvo](http://www.betsydisalvo.com/), co-advised by [Dr. Carl DiSalvo](https://www.carldisalvo.com/), and collaborate closely with [Dr. Ben Rydal Shapiro (GSU)](https://www.benrydal.com/). Before Georgia Tech, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs)[^2]. 
 

@@ -1,10 +1,11 @@
 ---
 layout: home
 ---
-[^3]
+
 <figure>
 <img style="padding-left: 15px;padding-bottom: 15px" align="right" width="25%" alt="cartoon drawing of Annabel (with lots of curly hair) by Hershel, whose website is linked at the bottom of this page" src="images/arr.jpg">
 </figure> 
+[^3]
 
 I am a [human-centered computing](https://hcc.cc.gatech.edu/)[^1] PhD student at Georgia Tech and a member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. A current(ish) copy of my cv is [here](/documents/Rothschild_CV.pdf) and my pronouns are she/her. I am primarily advised by [Dr. Betsy DiSalvo](http://www.betsydisalvo.com/), co-advised by [Dr. Carl DiSalvo](https://www.carldisalvo.com/), and collaborate closely with [Dr. Ben Rydal Shapiro (GSU)](https://www.benrydal.com/). Before Georgia Tech, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs)[^2]. 
 

@@ -1,12 +1,12 @@
 ---
 layout: home
 ---
-<centering>
+{: style="text-align:center"}
 ![I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, Hershel, made instead.](/images/arr.jpg)
 
  [Here's my CV](/documents/Rothschild_CV.pdf). My pronouns are she/her.
- </centering>
 
+{: style="text-align:left"}
 I am a [human-centered computing](https://hcc.cc.gatech.edu/)[^1] PhD student at Georgia Tech and a member of the [DataWorks](https://dataworkforce.gatech.edu/) research team. I am primarily advised by [Dr. Betsy DiSalvo](http://www.betsydisalvo.com/), co-advised by [Dr. Carl DiSalvo](https://www.carldisalvo.com/), and collaborate closely with [Dr. Ben Rydal Shapiro (GSU)](https://www.benrydal.com/). Before Georgia Tech, I studied computer science at [Wellesley College](https://www.wellesley.edu/cs)[^2]. 
 
 At a high level, I am interested in how people perceive the datafication tools (ranging from machine learning [ML] models to smartphones) they engage with and how their perceptions shape their use practices and the data that produce as a result of those personalized use practices. Beyond critical data studies, my approach is informed by [prior research experience and ongoing interest](https://annabelrothschild.com/projects/) in programming languages, usable security and privacy, and information dissemination in modern media. My dissertation research in particular is focused on preserving  the sociotechnical context in which a dataset is constructed, so that later use of systems (e.g., an ML classifier) trained on a given dataset can be contextualized; I care about contextualization as a way to more enact more just and respectful deployment of data-intensive systems, along with increasing system accuracy. Right now, I am exploring how context can be preserved in data work mediated by digital pieceworking platforms (e.g., Amazon Mechanical Turk). I am also working on building software systems and tools that support documentation in data work, while minimizing additional human labor and respecting the privacy of those working with, represented by, or included in the data.

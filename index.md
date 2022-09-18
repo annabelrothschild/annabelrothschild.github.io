@@ -6,6 +6,7 @@ layout: home
   
 
 [Here's my CV](/documents/Rothschild_CV.pdf). 
+
 My pronouns are she/her.
 
 {: style="text-align:left"}

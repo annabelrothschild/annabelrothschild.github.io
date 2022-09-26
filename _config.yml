@@ -21,7 +21,7 @@ email: annabelrothschild@tuta.io
 url: https://annabelrothschild.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ar_rothschild
 github_username: annabelrothschild
-google_analytics: G-KC4R631R9C 
+google_analytics: 'G-KC4R631R9C' 
 # Build settings
 markdown: kramdown
 theme: minima

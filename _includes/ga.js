@@ -14,5 +14,5 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id={G-KC4R631R9C}', fu
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', '{G-KC4R631R9C}', { 'anonymize_ip': true });
+    gtag('config', '{G-KC4R631R9C}');
 })

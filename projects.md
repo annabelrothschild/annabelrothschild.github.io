@@ -38,7 +38,7 @@ In Summer 2019, I worked in the HCI lab of [Prof. Dr. Susanne Boll](https://uol.
 ------
 <br>
 <p align="center">
-<iframe width="590" height="433" src="https://www.youtube.com/embed/9EkI9Oav49c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EkI9Oav49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 _Video by Chris Polack._
 

@@ -17,7 +17,7 @@ My dissertation research is specifically focused on preserving the sociotechnica
 
 In my spare time, I enjoy reading about [anything tangentially related to data and computing](https://annabelrothschild.com/books) and keeping a kind of data diary of [the temporal and financial cost](https://docs.google.com/spreadsheets/d/1eyy-YyFMA6gLla9F999hdHuxJlFO5M7G5hC9KW5bLS0/edit?usp=sharing) of protecting my personal information on the web -- mostly to highlight the barriers to doing so. 
 
-_The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>. This site is built with Jekyll and hosted by GitHub pages._
+_The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>._
 
 [^1]: Think HCI (human-computer interaction). But with more pizzazz 🤗. 
 [^2]: Yes, Wellesley is a historically women's college (no, != a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just get the last three funny tweets I saw on the topic.  

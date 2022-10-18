@@ -13,6 +13,7 @@ order: 2
 ### [2022]
 ------
 <br>
+
 * Shapiro, B. R., Meng, A., Rothschild, A., Gilliam, S., Garrett, C., DiSalvo, C., & DiSalvo, B. (2022). “Bettering Data”: The
 Role of Everyday Language and Visualization in Critical Novice Data Work. Educational Technology & Society, 25 (4). [PDF](https://drive.google.com/file/d/1gWUpUSR472PncKKMseQyJ8h3oZMU9ibD/view).
 

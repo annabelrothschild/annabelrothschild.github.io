@@ -3,6 +3,9 @@ layout: home
 ---
 {: style="text-align:center"}
 ![I generally avoid having my image posted on the web due to privacy implications. So here's a fun doodle that my friend, Hershel, made instead.](/images/arr.jpg)
+
+{: style="text-align:center"}
+_Profile doodle by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>._
   
 _[Here's my CV](/documents/Rothschild_CV.pdf)._ 
 
@@ -17,7 +20,6 @@ My dissertation research is specifically focused on preserving the sociotechnica
 
 In my spare time, I enjoy reading about [anything tangentially related to data and computing](https://annabelrothschild.com/books) and keeping a kind of data diary of [the temporal and financial cost](https://docs.google.com/spreadsheets/d/1eyy-YyFMA6gLla9F999hdHuxJlFO5M7G5hC9KW5bLS0/edit?usp=sharing) of protecting my personal information on the web -- mostly to highlight the barriers to doing so. 
 
-_The doodle is by <a href="https://www.linkedin.com/in/hershel-carbajal-rodriguez-290441151/">Hershel</a>._
 
 [^1]: Think HCI (human-computer interaction). But with more pizzazz 🤗. 
 [^2]: Yes, Wellesley is a historically women's college (no, != a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just get the last three funny ~tweets~ ([toots?](https://hci.social/web/@annabelrothschild)) I saw on the topic.  

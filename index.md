@@ -22,4 +22,4 @@ In my spare time, I enjoy reading about [anything tangentially related to data a
 
 
 [^1]: Think HCI (human-computer interaction). But with more pizzazz 🤗. 
-[^2]: Yes, Wellesley is a historically women's college (no, != a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just get the last three funny ~tweets~ ([toots?](https://hci.social/web/@annabelrothschild)) I saw on the topic.  
+[^2]: Yes, Wellesley is a historically women's college (no, != a "girls' school"). But, believe it or not, I am unqualified to give impromptu lectures on womens' & gender studies and if you ask, you'll just get the last three funny ~~tweets~~ ([toots?](https://hci.social/web/@annabelrothschild)) I saw on the topic.  

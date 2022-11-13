@@ -17,7 +17,7 @@ order: 2
 * Shapiro, B. R., Meng, A., Rothschild, A., Gilliam, S., Garrett, C., DiSalvo, C., & DiSalvo, B. (2022). “Bettering Data”: The
 Role of Everyday Language and Visualization in Critical Novice Data Work. Educational Technology & Society, 25 (4). [PDF](https://drive.google.com/file/d/1gWUpUSR472PncKKMseQyJ8h3oZMU9ibD/view).
 
-* Annabel Rothschild, Amanda Meng, Carl DiSalvo, Britney Johnson, Ben Rydal Shapiro, and Betsy DiSalvo. 2022. Interrogating Data Work as a Community of Practice. Proceedings of the ACM on Human-Computer Interaction 6, Article 307 (November 2022) (2022), 29. DOI:https://doi.org/10.1145/3555198
+* Annabel Rothschild, Amanda Meng, Carl DiSalvo, Britney Johnson, Ben Rydal Shapiro, and Betsy DiSalvo. 2022. Interrogating Data Work as a Community of Practice. Proceedings of the ACM on Human-Computer Interaction 6, Article 307 (November 2022) (2022), 29. [DOI link](https://doi.org/10.1145/3555198. [PDF](/documents/Rothschild_CSCW_22.pdf)
 
 
 * Annabel Rothschild, Justin Booker, Christa Davoll, Jessica Hill, Venise Ivey, Carl DiSalvo, Benjamin Rydal Shapiro, and Betsy DiSalvo. 2022. Towards fair and pro-social employment of digital pieceworkers for sourcing machine learning training data. In alt.chi ’2022: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, April 30 - May 6, 2022, New Orleans, Louisiana. ACM, New York, NY, USA, 12 pages. [Project page](https://annabelrothschild.com/projects/alt.chi-22/pro-social_crowd_collaborator_recruitment_guidelines).
